@@ -1,0 +1,5913 @@
+# I Wanna Maker translations
+# This file was auto-generated
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-11-08 19:01\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: gettext_update.py\n"
+
+#. rTitle
+msgid "Language"
+msgstr "languag"
+
+#. rTitle
+msgid "Play Offline"
+msgstr "alone kitten timez"
+
+#. rTitle, rMainMenu, rTimeLimitUp
+msgid "Quit"
+msgstr "baibaii"
+
+#. rTitle
+msgid "Test"
+msgstr "test"
+
+#. rMainMenu, rMenuPlaylist, objBrowseList
+msgid "Play"
+msgstr "play!! :3"
+
+#. rMainMenu
+msgid "Make"
+msgstr "make!! :3"
+
+#. rMainMenu
+msgid "Browse"
+msgstr "browze"
+
+#. rMainMenu
+msgid "Challenges"
+msgstr "challengez"
+
+#. rMainMenu, rMenuLocal, rMenuBrowse, rMenuBrowsePlaylists, rMenuPlaylist, rMenuEditPlaylist, rMenuLeaderboard, rMenuChallenges, rMenuProgression, rMenuAdmin, rMenuStory, rChallengeClear, objClearScreen, objTitleSubMenu, scrButtonCallback_MainMenuHamburger
+msgid "Back"
+msgstr "kthxbye"
+
+#. rMainMenu
+msgid "Campaign"
+msgstr "campaign"
+
+#. rMainMenu, rMenuBrowse
+msgid "Following"
+msgstr "following"
+
+#. rMainMenu, createRulesPopup
+msgid "Rules"
+msgstr "rulez"
+
+#. rMainMenu
+msgid "Credits"
+msgstr "creditz"
+
+#. rMainMenu, regenerateLocalizedStaticStrings
+msgid "Weekly Mix"
+msgstr "weekli meow mix"
+
+#. rMainMenu
+msgid "Leaderboards"
+msgstr "leederbordz"
+
+#. rMainMenu, objProfilePopup
+msgid "Playlists"
+msgstr "plaelistz"
+
+#. rMainMenu
+msgid "Settings"
+msgstr "settingz"
+
+#. rMainMenu
+msgid "More"
+msgstr "moar"
+
+#. rMainMenu, objEditProfilePopup
+msgid "Customize"
+msgstr "customaiz"
+
+#. rMainMenu, scrButtonCallback_MainMenuHamburger
+msgid "Log Out"
+msgstr "log out"
+
+#. rMainMenu, scrButtonCallback_MainMenuHamburger
+msgid "Return to Title"
+msgstr "return to taitle"
+
+#. rMainMenu
+msgid "Achievements"
+msgstr "acheevmentz"
+
+#. rMainMenu
+msgid "Reset campaign"
+msgstr "reset campaign"
+
+#. rMenuLocal
+msgid "New Level"
+msgstr "meow level"
+
+#. rMenuLocal
+msgid "Name"
+msgstr "name"
+
+#. rMenuLocal
+msgid "Open levels folder"
+msgstr "open lvlz cupboard"
+
+#. rMenuLocal
+msgid "Reload levels"
+msgstr "check cupboard again"
+
+#. rMenuLocal, rMenuBrowsePlaylists
+msgid "Order"
+msgstr "ordar"
+
+#. rMenuLocal, objBrowseList
+msgid "Last Modified"
+msgstr "last modifaid"
+
+#. rMenuBrowse, rMenuBrowsePlaylists, rMenuEditPlaylist
+msgid "Search"
+msgstr "search"
+
+#. rMenuBrowse, rMenuEditPlaylist, objWorldPanel, objClearScreen
+msgid "Level Name"
+msgstr "lvl name"
+
+#. rMenuBrowse, rMenuBrowsePlaylists, rMenuEditPlaylist, initUnlocks
+msgid "Maker"
+msgstr "creator cat"
+
+#. rMenuBrowse, rMenuBrowsePlaylists, startEditingParam
+msgid "Random"
+msgstr "random"
+
+#. rMenuBrowse, rMenuBrowsePlaylists
+msgid "Reset Filters"
+msgstr "reset filtyerz"
+
+#. rMenuBrowse, rMenuEditPlaylist, rMenuChallenges, objBrowseList
+msgid "Cleared"
+msgstr "yay"
+
+#. rMenuBrowse, rMenuEditPlaylist, rMenuChallenges, objBrowseTagButton, objNotifPopup, regenerateLocalizedStaticStrings
+msgid "Any"
+msgstr "whatever"
+
+#. rMenuBrowse, rMenuEditPlaylist, rMenuChallenges, objPopupExitEditor, objClearScreen, objNotifPopup, objConfirmPopup
+msgid "No"
+msgstr "nay"
+
+#. rMenuBrowse, rMenuEditPlaylist, rMenuChallenges, objPopupShiftObjectsWarning, objPopupMapSizeWarning, objPopupExitEditor, objClearScreen, objNotifPopup, objConfirmPopup
+msgid "Yes"
+msgstr "yay"
+
+#. rMenuBrowse, rMenuChallenges, objLeaderboardPopup
+msgid "100%"
+msgstr "full yay!!"
+
+#. rMenuBrowse, rMenuChallenges
+msgid "Yes but not 100%"
+msgstr "half yay"
+
+#. rMenuBrowse, rMenuEditPlaylist, rMenuChallenges, objBrowseList
+msgid "Played"
+msgstr "playd"
+
+#. rMenuBrowse, objPlayController, objBrowseList, sapi_submit_map_result
+msgid "ID"
+msgstr "id"
+
+#. rMenuBrowse
+msgid "Upload date"
+msgstr "upload date"
+
+#. rMenuBrowse
+msgid "Past day"
+msgstr "day ago"
+
+#. rMenuBrowse
+msgid "Past 7 days"
+msgstr "week ago"
+
+#. rMenuBrowse
+msgid "Past 30 days"
+msgstr "month ago"
+
+#. rMenuBrowse
+msgid "All time"
+msgstr "whatever ago"
+
+#. rMenuBrowse
+msgid "Sort by"
+msgstr "sort bai"
+
+#. rMenuBrowse
+msgid "Featured"
+msgstr "featured"
+
+#. rMenuBrowse, rMenuEditPlaylist, rMenuChallenges, objChallengeMenuController, objChallengeDisplay
+msgid "Rating"
+msgstr "ratin"
+
+#. rMenuBrowse, rMenuBrowsePlaylists, rMenuEditPlaylist
+msgid "Newest"
+msgstr "new"
+
+#. rMenuBrowse, rMenuBrowsePlaylists, rMenuEditPlaylist
+msgid "Oldest"
+msgstr "old"
+
+#. rMenuBrowse, rMenuEditPlaylist
+msgid "Easiest"
+msgstr "ez"
+
+#. rMenuBrowse, rMenuEditPlaylist
+msgid "Hardest"
+msgstr "hard"
+
+#. rMenuBrowse
+msgid "Least Played"
+msgstr "least playd"
+
+#. rMenuBrowse
+msgid "Recently Played"
+msgstr "just playd"
+
+#. rMenuBrowse, objBrowseList
+msgid "Lobby Player Count"
+msgstr "kitty count"
+
+#. rMenuBrowse
+msgid "My Unlisted Levels"
+msgstr "mai private lvls"
+
+#. rMenuBrowse
+msgid "Record"
+msgstr "record"
+
+#. rMenuBrowse
+msgid "New"
+msgstr "new"
+
+#. rMenuBrowse
+msgid "Online Lobby Players"
+msgstr "online kittenz"
+
+#. rMenuBrowse
+msgid "Simple"
+msgstr "simple"
+
+#. rMenuBrowse, rMenuEditPlaylist
+msgid "Advanced"
+msgstr "big brain"
+
+#. rMenuBrowse
+msgid "Popular"
+msgstr "popular"
+
+#. rMenuBrowsePlaylists, rMenuEditPlaylist, objPopupNewPlaylist
+msgid "Playlist name"
+msgstr "pleylist name"
+
+#. rMenuBrowsePlaylists
+msgid "Updated"
+msgstr "updated"
+
+#. rMenuBrowsePlaylists
+msgid "Weekly Mixes"
+msgstr "weekly meow mixz"
+
+#. rMenuPlaylist, objPlayController, objClearScreen, objPlaylistThumbnail, objChallengeTransitionController, objChallengeCleared, objBrowseThumbnail, objBrowseListAddToPlaylist, objPlaylistController, objStoryMapLevelButton, scrDiscordInfo
+msgid "by"
+msgstr "by"
+
+#. rMenuPlaylist
+msgid "Shuffle play"
+msgstr "shffl play"
+
+#. rMenuPlaylist
+msgid "Past#Weekly Mixes"
+msgstr "prev#meow mixs"
+
+#. rMenuPlaylist
+msgid "A curated mix of 10 levels from the past week. Some challenging levels may be picked, so don't feel bad about not finishing it!"
+msgstr "a meow mix of 10 lvls from past week. sum lvlz may be difficul, but no feel bad! no every kitty is good at catch mice"
+
+#. rMenuEditPlaylist
+msgid "Save Playlist"
+msgstr "save pleylist"
+
+#. rMenuEditPlaylist
+msgid "Move level up"
+msgstr "move lvl up"
+
+#. rMenuEditPlaylist
+msgid "Move level down"
+msgstr "move lvl down"
+
+#. rMenuEditPlaylist
+msgid "Remove level from playlist"
+msgstr "remove lvl from pleylist"
+
+#. rMenuLeaderboard, rMenuChallenges, objBrowseList
+msgid "Leaderboard"
+msgstr "top kittez"
+
+#. rMenuLeaderboard, objProfilePopup, refreshLeaderboard
+msgid "Clears"
+msgstr "clearz"
+
+#. rMenuLeaderboard, objProfilePopup, refreshLeaderboard
+msgid "Records"
+msgstr "fast kitty timez: "
+
+#. rMenuLeaderboard, regenerateLocalizedStaticStrings, initUnlocks
+msgid "Explorer"
+msgstr "explorer"
+
+#. rMenuLeaderboard
+msgid "Scribble Easy"
+msgstr "scribblo ez"
+
+#. rMenuLeaderboard
+msgid "Scribble Medium"
+msgstr "scribblo med"
+
+#. rMenuLeaderboard
+msgid "Scribble Hard"
+msgstr "scribblo hard"
+
+#. rMenuLeaderboard
+msgid "Scribble Impossible"
+msgstr "scribbl imposibel"
+
+#. rMenuLeaderboard
+msgid "Endurance Easy"
+msgstr "enduranc ez"
+
+#. rMenuLeaderboard
+msgid "Endurance Medium"
+msgstr "enduranc med"
+
+#. rMenuLeaderboard
+msgid "Endurance Hard"
+msgstr "enduranc hard"
+
+#. rMenuLeaderboard
+msgid "Endurance Impossible"
+msgstr "enduranc imposibel"
+
+#. rMenuLeaderboard, regenerateLocalizedStaticStrings
+msgid "Roulette"
+msgstr "roulette"
+
+#. rMenuLeaderboard, regenerateLocalizedStaticStrings
+msgid "Hardcore Roulette"
+msgstr "hard roulette"
+
+#. rMenuLeaderboard, objBrowseList
+msgid "View"
+msgstr "view"
+
+#. rMenuLeaderboard
+msgid "Top"
+msgstr "top"
+
+#. rMenuLeaderboard
+msgid "My ranking"
+msgstr "my rank"
+
+#. rMenuLeaderboard
+msgid "Early Access"
+msgstr "earli accez"
+
+#. rMenuChallenges
+msgid "Start"
+msgstr "start"
+
+#. rMenuChallenges, objBrowseList, objBrowseListAddToPlaylist, objLeaderboardPopup, objProfilePopup, objLeaderboard, scrCreateClearScreenLoadPopup, scrButtonCallback_EndChallengeConfirm, startChallenge, continueChallenge
+msgid "Loading..."
+msgstr "loading, meow..."
+
+#. rMenuChallenges
+msgid "Continue"
+msgstr "continue"
+
+#. rMenuChallenges
+msgid "Difficulty"
+msgstr "difficulti"
+
+#. rMenuChallenges
+msgid "Length"
+msgstr "lengf"
+
+#. rMenuChallenges
+msgid "Fixed"
+msgstr "fixd"
+
+#. rMenuChallenges
+msgid "Infinite"
+msgstr "infinity"
+
+#. rMenuChallenges
+msgid "Challenge Name"
+msgstr "challeng name"
+
+#. rMenuChallenges, regenerateLocalizedStaticStrings
+msgid "Custom Challenge"
+msgstr "custom challng"
+
+#. rMenuChallenges
+msgid "Lives"
+msgstr "livs"
+
+#. rMenuChallenges
+msgid "Limited"
+msgstr "limitd"
+
+#. rMenuChallenges
+msgid "Skips"
+msgstr "skipz"
+
+#. rMenuChallenges
+msgid "Earn skips from clears"
+msgstr "get skipz from clearz"
+
+#. rMenuChallenges
+msgid "Ongoing"
+msgstr "ongoing"
+
+#. rMenuChallenges
+msgid "Max skips"
+msgstr "max skipz"
+
+#. rMenuChallenges, objResetSliderButton, objTagPicker
+msgid "Reset"
+msgstr "reset"
+
+#. rMenuChallenges, scrCreatePauseButtons
+msgid "End Challenge"
+msgstr "end challeng"
+
+#. rChallengeClear
+msgid "Speed up"
+msgstr "speed up"
+
+#. rChallengeClear
+msgid "Slow down"
+msgstr "slow down"
+
+#. objWorld, objPopupExitEditor
+msgid "There are unsaved changes. Are you sure you want to quit?"
+msgstr "therez unsavd changez, u wanna quit?"
+
+#. objWorld
+msgid "Paused"
+msgstr "zzz... (-w- )"
+
+#. objReplayController
+msgid "Upload taking too long, exiting."
+msgstr "upload take too long!! exiting,,"
+
+#. objReplayController
+msgid "Playthrough too long, not recording replay."
+msgstr "playthru too long!! exiting,,."
+
+#. objReplayController
+msgid "Game is lagging too much. Please reduce the number of objects in the room to upload"
+msgstr "game too laggi :< plz reduc numba of objectz"
+
+#. objReplayController
+msgid "Too much lag in playthrough. Please reduce the number of objects in the room to upload."
+msgstr "game too laggi :< plz reduc numba of objectz"
+
+#. objReplayController
+msgid "Too much lag in playthrough. Not submitting time."
+msgstr "too much lag :< no submit time"
+
+#. objReplayController
+msgid "Autofire detected.#Autofire is not allowed, please disable it to upload."
+msgstr "autofir detectd!!#cheater kitty, disable it plz"
+
+#. objReplayController
+msgid "Autofire detected.#Autofire is not allowed, not submitting time."
+msgstr "autofir detectd!!#u r cheater kitteh, no submit time "
+
+#. objReplayController
+msgid "All gems must be collected to upload."
+msgstr "all shinies must be collectd to upload"
+
+#. objLobbyUsersDisplay
+msgid "Users in lobby:"
+msgstr "kittenz in lobbi:"
+
+#. objLobbyUsersDisplay
+msgid "--- Connecting ---"
+msgstr "--- dialing... ---"
+
+#. objPalettePanel, objDetailsPanel
+msgid "Pointer"
+msgstr "pointa"
+
+#. objPalettePanel
+msgid "Area"
+msgstr "area"
+
+#. objPalettePanel
+msgid "Duplicate"
+msgstr "dupe"
+
+#. objPalettePanel
+msgid "Group Select"
+msgstr "group select"
+
+#. objPalettePanel
+msgid "Picker"
+msgstr "picka"
+
+#. objPalettePanel
+msgid "Rotate"
+msgstr "rotat"
+
+#. objPalettePanel
+msgid "Show/hide preferences"
+msgstr "shao/hide preferencez"
+
+#. objPalettePanel
+msgid "Snap to Block"
+msgstr "snap to bloc"
+
+#. objPalettePanel
+msgid "Snap to Half-block"
+msgstr "snap to half bloc"
+
+#. objPalettePanel
+msgid "Snap to Quarter-block"
+msgstr "snap to quarta bloc"
+
+#. objPalettePanel
+msgid "No snap"
+msgstr "no snap"
+
+#. objPalettePanel
+msgid "Grid"
+msgstr "grid"
+
+#. objPalettePanel
+msgid "Off"
+msgstr "nah"
+
+#. objPalettePanel, sfm_object_friendly_name
+msgid "Block"
+msgstr "bloc"
+
+#. objPalettePanel
+msgid "Half-block"
+msgstr "half bloc"
+
+#. objPalettePanel
+msgid "Quarter-block"
+msgstr "quarta bloc"
+
+#. objPalettePanel, objOptionsPopup
+msgid "Music"
+msgstr "music"
+
+#. objPalettePanel
+msgid "Editor"
+msgstr "editor"
+
+#. objPalettePanel, objPlayController
+msgid "Level"
+msgstr "level"
+
+#. objPalettePanel
+msgid "Editor/Level"
+msgstr "editor/lvl"
+
+#. objPalettePanel
+msgid "Track"
+msgstr "track"
+
+#. objPalettePanel
+msgid "Alternate 1/2"
+msgstr "alternate 1/2"
+
+#. objPalettePanel
+msgid "Show invisible objects"
+msgstr "shao invisibl objectz"
+
+#. objPalettePanel
+msgid "Show event activations"
+msgstr "shao event actiationz"
+
+#. objPalettePanel
+msgid "Tutorial images panel"
+msgstr "tutorial imagez panel"
+
+#. objEditUndoButton
+msgid "Undo"
+msgstr "undo"
+
+#. objEditRedoButton
+msgid "Redo"
+msgstr "redo"
+
+#. objHelpButton
+msgid "Shortcuts"
+msgstr "trickz"
+
+#. objHelpButton
+msgid "Keyboard shortcuts"
+msgstr "keyboard trickz"
+
+#. objHelpButton
+msgid "0-9 on Palette"
+msgstr "0-9 on pallete"
+
+#. objHelpButton
+msgid "Set Toolbox Favorites"
+msgstr "set toolbox favs"
+
+#. objHelpButton
+msgid "Right Click on Palette"
+msgstr "right click on pallete"
+
+#. objHelpButton
+msgid "Toggle Visibility"
+msgstr "toggl visibility"
+
+#. objHelpButton
+msgid "Middle Mouse or Arrow Keys"
+msgstr "middl mouse or arrow keyz"
+
+#. objHelpButton
+msgid "Pan Camera"
+msgstr "pan camera"
+
+#. objHelpButton
+msgid "Alt + Arrow Keys"
+msgstr "alt + arrow keyz"
+
+#. objHelpButton
+msgid "Shift Object"
+msgstr "shift object"
+
+#. objHelpButton
+msgid "Picker Tool"
+msgstr "picker tool"
+
+#. objHelpButton
+msgid "Force Place Object"
+msgstr "force plac object"
+
+#. objHelpButton
+msgid "Event Highlight"
+msgstr "event highlight"
+
+#. objHelpButton
+msgid "Right Click on nothing"
+msgstr "rite clic on nothing"
+
+#. objHelpButton
+msgid "Deselect object"
+msgstr "deselect object"
+
+#. objHelpButton
+msgid "Warp Player To Mouse"
+msgstr "warp playah to mouse"
+
+#. objHelpButton, scrGetKeybind
+msgid "Ctrl"
+msgstr "ctrl"
+
+#. objHelpButton
+msgid "Restart from flag"
+msgstr "restart from flag"
+
+#. objHelpButton
+msgid "Save Level"
+msgstr "save lvl"
+
+#. objHelpButton
+msgid "Copy Object(s)"
+msgstr "copy object(z)"
+
+#. objHelpButton
+msgid "Paste Object(s)"
+msgstr "paste object(z)"
+
+#. objHelpButton
+msgid "Import Object(s)"
+msgstr "import object(z)"
+
+#. objHelpButton
+msgid "Export Selected"
+msgstr "export selectd"
+
+#. objHelpButton
+msgid "Scroll Wheel (In Level Area)"
+msgstr "scroll wheel (in lvl area)"
+
+#. objHelpButton
+msgid "Esc"
+msgstr "esc"
+
+#. objPauseButton
+msgid "Pause/Play"
+msgstr "pause/plae"
+
+#. objToolButton
+msgid "Properties and Events"
+msgstr "propertiz and eventz"
+
+#. objToolButton
+msgid "Properties"
+msgstr "propertis"
+
+#. objToolButton, objDetailsPanel
+msgid "Events"
+msgstr "eventz"
+
+#. objShiftObjectsButton
+msgid "Move all objects by snap"
+msgstr "move all objectz by snap"
+
+#. objRestartButton
+msgid "Restart"
+msgstr "restart"
+
+#. objPopupShiftObjectsWarning, objPopupMapSizeWarning, objSaveSelectPopup, objLoadObjectsPopup, objPopupExitEditor
+msgid "Cancel"
+msgstr "cancel"
+
+#. objPopupShiftObjectsWarning, objPopupMapSizeWarning
+msgid "This will destroy some objects. This action cannot be undone. Continue?"
+msgstr "wait! this will destroy sum stuff, cannot be undo'd, continue?"
+
+#. objCloseTutorialImagesButton
+msgid "Close tutorial images panel"
+msgstr "close tutorial imagz panel"
+
+#. objDetailsPanel
+msgid "Details Area Paint Roller"
+msgstr "detailz area paint rolla"
+
+#. objDetailsPanel
+msgid "Details Paint Roller"
+msgstr "detailz paint rolla"
+
+#. objDetailsPanel
+msgid "Select Parent"
+msgstr "selec parent"
+
+#. objDetailsPanel
+msgid "Link To Object"
+msgstr "link to object"
+
+#. objDetailsPanel
+msgid "Unlink"
+msgstr "unlink"
+
+#. objDetailsPanel
+msgid "objects"
+msgstr "objectz"
+
+#. objDetailsPanel
+msgid "Drag to move."
+msgstr "drag to move,,"
+
+#. objDetailsPanel
+msgid "You cannot edit multiple objects at once."
+msgstr "cannot edit multiple objectz :p sorry too lazy"
+
+#. objDetailsPanel
+msgid "Select an object to edit it."
+msgstr "select a object to edit it,"
+
+#. objDetailSelector, objDifficultySlider
+msgid "Ctrl - no snap"
+msgstr "ctrl - no snap"
+
+#. objDetailSelector
+msgid "Alt - negative"
+msgstr "alt - negativ"
+
+#. objObjNameButton
+msgid "Rename Object"
+msgstr "renam object"
+
+#. objExportButton
+msgid "Export Object(s)"
+msgstr "export object(z)"
+
+#. objWorldPanel, objOptionsPopup
+msgid "General"
+msgstr "general"
+
+#. objWorldPanel
+msgid "Visual"
+msgstr "vizual"
+
+#. objWorldPanel
+msgid "Room Name"
+msgstr "room nam"
+
+#. objWorldPanel
+msgid "Camera scroll mode"
+msgstr "camera scroll modo"
+
+#. objWorldPanel
+msgid "Kid tracking"
+msgstr "kitty track"
+
+#. objWorldPanel
+msgid "Screen lock"
+msgstr "screen loc"
+
+#. objWorldPanel
+msgid "Change"
+msgstr "chang"
+
+#. objWorldPanel
+msgid "Import Obj"
+msgstr "import obj"
+
+#. objWorldPanel
+msgid "Blocks"
+msgstr "blockz"
+
+#. objWorldPanel
+msgid "Spikes"
+msgstr "spikz"
+
+#. objWorldPanel
+msgid "Background"
+msgstr "background"
+
+#. objWorldPanel
+msgid "Randomize visuals"
+msgstr "randomiz visualz"
+
+#. objWorldPanel
+msgid "Colorize"
+msgstr "coloriz"
+
+#. objWorldPanel
+msgid "Blocks 2"
+msgstr "blockz 2"
+
+#. objWorldPanel
+msgid "Spikes 2"
+msgstr "spikez 2"
+
+#. objWorldPanel
+msgid "Randomize all colors"
+msgstr "randomiz all colorz"
+
+#. objWorldPanel
+msgid "Invert"
+msgstr "invert"
+
+#. objEditTempSaveButton, objSaveSelectPopup
+msgid "Save"
+msgstr "save"
+
+#. objEditTempSaveButton, objEditController
+msgid "You can't save downloaded levels."
+msgstr "ya cant saev downloaded lvlz, sorry :P"
+
+#. objEditTempUploadButton, objClearScreen
+msgid "Upload"
+msgstr "upload"
+
+#. objEditTempUploadButton, objBrowseList
+msgid "Edit"
+msgstr "edit"
+
+#. objEditTempUploadButton
+msgid "You can't upload downloaded levels."
+msgstr "ya cant upload downloaded lvls, sory :P"
+
+#. objEditQuitButton, scrCreatePauseButtons
+msgid "Exit Editor"
+msgstr "exit editr"
+
+#. objResetColorsButton
+msgid "Reset all colors"
+msgstr "reset all colorz"
+
+#. objRoomSizeSelect
+msgid "Room size"
+msgstr "room saiz"
+
+#. objDrawMapMusic, objPlayController, paramsDraw
+msgid "Right-click to copy link"
+msgstr "rite-clic to copy link"
+
+#. objDrawMapMusic, objPlayController, objBrowseList, doObjCopy, paramsDraw
+msgid "Copied to clipboard."
+msgstr "copied to clipboard :3"
+
+#. objSubmapUI
+msgid "Rooms:"
+msgstr "roomz:"
+
+#. objSubmapUI
+msgid "Are you sure you want to delete room:#\"%1\"?"
+msgstr "ya sure ya wanna delet room#\"%1\"?"
+
+#. objSubmapUI
+msgid "Delete Room"
+msgstr "delet room"
+
+#. objSubmapUI
+msgid "Add Room"
+msgstr "add room"
+
+#. objSubmapUI
+msgid "Import Room(s)"
+msgstr "import room(z)"
+
+#. objEditController
+msgid "Toolbox"
+msgstr "toolbox"
+
+#. objEditController
+msgid "Object Details"
+msgstr "object detailz"
+
+#. objEditController
+msgid "Level Info"
+msgstr "lvl info"
+
+#. objEditController
+msgid "Warning: This level was made with an older version of the game and might not work properly in the editor."
+msgstr "warning!! this lvl is old, might not work properli in editor"
+
+#. objEditController
+msgid "Warning: The game is currently lagging.#To upload the level the game has to run at 50 FPS.#Please reduce the number of objects or events"
+msgstr "warning!! game is laggy#to upload lvl game haz to run at 50fps# plz reduce numba of objectz or eventz"
+
+#. objEditController
+msgid "Building Your World..."
+msgstr "building yor world,,,"
+
+#. objEditController
+msgid "Saving..."
+msgstr "saving,,,"
+
+#. objPopupUpload, objRegisterNotifPopup, objEditProfileNotif, objPopup, objGeneralNotif, scrButtonCallback_SubmitReport
+msgid "Please Wait..."
+msgstr "meow meow meow ovo"
+
+#. objLoadObjectsPopup
+msgid "Load"
+msgstr "load"
+
+#. objPlayController
+msgid "Play random song"
+msgstr "play random song"
+
+#. objPlayController
+msgid "Skip Deaths"
+msgstr "skip dethz"
+
+#. objPlayController
+msgid "Show Player Ghosts"
+msgstr "shao kitty ghostz"
+
+#. objPlayController
+msgid "Ghosts only viewable when watching world record and level has multiple clears"
+msgstr "ghostz only viewabl when watching world record and lvl haz multipl clearz"
+
+#. objPlayController
+msgid "Playback Speed"
+msgstr "play speed"
+
+#. objPlayController, objIntroCutsceneController
+msgid "Skip"
+msgstr "skip"
+
+#. objPlayController, objBrowseList
+msgid "Right-click to copy"
+msgstr "rite-clic to copy"
+
+#. objPlayController
+msgid "Clear the level to upload!"
+msgstr "clear le lvl to upload!!"
+
+#. objPlayController
+msgid "Gems collected: "
+msgstr "shiniez collectd:"
+
+#. objPlayController
+msgid "Loading Level..."
+msgstr "loading, meow..."
+
+#. objPlayController
+msgid "Buttons Enabled"
+msgstr "buttonz enabled!!"
+
+#. objClearScreen
+msgid "THANKS FOR PLAYING!"
+msgstr "thankz for playin!!"
+
+#. objClearScreen, objProfilePopup
+msgid "Unfollow"
+msgstr "unfollow"
+
+#. objClearScreen, objProfilePopup, objButton, scrCreateRateButtons
+msgid "Follow"
+msgstr "follow :3"
+
+#. objClearScreen
+msgid "LEVEL CLEAR!"
+msgstr "lvl clear!!"
+
+#. objClearScreen
+msgid "100% CLEAR!"
+msgstr "full clear!!"
+
+#. objClearScreen
+msgid "GAME OVER"
+msgstr "game over :<"
+
+#. objClearScreen
+msgid "LEVEL SKIPPED!"
+msgstr "lvl skippd,,"
+
+#. objClearScreen
+msgid "CAMPAIGN CLEAR!"
+msgstr "campaign clear!!"
+
+#. objClearScreen
+msgid "Next"
+msgstr "next"
+
+#. objClearScreen
+msgid "Replay Level"
+msgstr "replay lvl"
+
+#. objClearScreen
+msgid "Watch Replay"
+msgstr "watch replay"
+
+#. objClearScreen
+msgid "Watch Record"
+msgstr "watch record"
+
+#. objClearScreen, objBrowseList, scrCreatePauseButtons, scrButtonCallback_AddToPlaylistCleanup
+msgid "Add to playlist"
+msgstr "add to pleylist"
+
+#. objClearScreen, scrCreatePauseButtons
+msgid "Add to favorites"
+msgstr "add to favz"
+
+#. objClearScreen
+msgid "Add description"
+msgstr "add descripsion"
+
+#. objClearScreen
+msgid "Visibility"
+msgstr "visibiliti"
+
+#. objClearScreen
+msgid "Public"
+msgstr "public"
+
+#. objClearScreen, objBrowseList
+msgid "Unlisted"
+msgstr "private"
+
+#. objClearScreen
+msgid "Appear in challenges"
+msgstr "appear in challengez"
+
+#. objClearScreen
+msgid "Level can't appear in challenges when low jump cancels are used"
+msgstr "level cant be in challengz when low jump cancelz r used"
+
+#. objClearScreen
+msgid "Replay Visibility"
+msgstr "replay visibiliti"
+
+#. objClearScreen
+msgid "Always"
+msgstr "alwayz"
+
+#. objClearScreen
+msgid "After clear"
+msgstr "aftr yay"
+
+#. objClearScreen
+msgid "After 100% clear"
+msgstr "aftr full yay"
+
+#. objClearScreen
+msgid "Time"
+msgstr "time"
+
+#. objClearScreen
+msgid "Deaths"
+msgstr "dethz"
+
+#. objClearScreen
+msgid "Gems"
+msgstr "shiniez"
+
+#. objTutorialController
+msgid "Welcome to I Wanna Maker!##Press %1/%2 to walk#Press %3 to jump"
+msgstr "welcom to i wanna maker!##press %1/%2 to walk#press %3 to jump"
+
+#. objTutorialController, generateTutorialSignText
+msgid "Press %1 to shoot and save"
+msgstr "press %1 to pew pew and save"
+
+#. objTutorialController
+msgid "You have a double jump##Press %1 again in mid-air"
+msgstr "ya have double jump :3##press %1 again midair"
+
+#. objTutorialController, generateTutorialSignText
+msgid "Press %1 to shoot buttons"
+msgstr "press %1 to pew pew gun"
+
+#. objTutorialController
+msgid "In water, you can jump as many times as you want"
+msgstr "in water, ya can jump many times!!"
+
+#. objTutorialController
+msgid "In refreshing water, you get another double jump after you touch it"
+msgstr "in refreshing water, ya get double jump after touchin"
+
+#. objTutorialController, generateTutorialSignText
+msgid "Press %1 while touching a vine to jump off of it"
+msgstr "press %1 while on vine to jump off"
+
+#. objTutorialController
+msgid "There are many more objects and gimmicks to discover#Good luck!"
+msgstr "therez many more to discova#good luck!! ^w^"
+
+#. objPlaylistThumbnail, objChallengeTransitionController
+msgid "Up next"
+msgstr "next!!"
+
+#. objChallengeCleared
+msgid "Clear!!"
+msgstr "clear!!"
+
+#. objChallengeCleared
+msgid "Game Over"
+msgstr "game over,,"
+
+#. objChallengeCleared
+msgid "Ran out of levels"
+msgstr "ran outta levelz,,"
+
+#. objGameOver
+msgid "Press %1 to restart"
+msgstr "press %1 to restart"
+
+#. objBossIntroCutsceneController
+msgid "Well, I finished all your levels."
+msgstr "well, i finished your levels :P"
+
+#. objBossIntroCutsceneController
+msgid "GOOD JOB!"
+msgstr "great job!! uwu"
+
+#. objBossIntroCutsceneController
+msgid "But it seems like you're missing a final boss..."
+msgstr "but! u r missing a final boss :/"
+
+#. objBossIntroCutsceneController
+msgid "WHO DO YOU THINK YOU'RE TALKING TO?"
+msgstr "whatcha think ya talkin to??"
+
+#. objBossIntroCutsceneController
+msgid "SEE IF YOU CAN KEEP UP."
+msgstr ":3"
+
+#. objRegisterPopup, objForgotPWPopup, objTitleSubMenu
+msgid "Username"
+msgstr "username"
+
+#. objRegisterPopup, objForgotPWPopup
+msgid "Email"
+msgstr "email"
+
+#. objRegisterPopup, objForgotPWPopup, objTitleSubMenu
+msgid "Password"
+msgstr "password"
+
+#. objRegisterPopup, objForgotPWPopup
+msgid "Re-enter Password"
+msgstr "password, again"
+
+#. objRegisterPopup, objTitleSubMenu
+msgid "Remember Me"
+msgstr "rememba me ovo"
+
+#. objRegisterPopup, objTitleSubMenu
+msgid "Create Account"
+msgstr "creat account"
+
+#. objForgotPWPopup
+msgid "Forgot your password?##Enter your username and email to#get a reset code mailed to you."
+msgstr "forgot cha password?##enter ya usernam and email to#get a reset code mailed to ya :P"
+
+#. objForgotPWPopup, objPopupNewPlaylist
+msgid "Submit"
+msgstr "submit"
+
+#. objDiscordButton
+msgid "We have a Discord server!"
+msgstr "we have a discord serva!! :3"
+
+#. objMainMenuTitle
+msgid "Warning: Shaders not supported#Some visual effects may appear incorrectly#Please install DirectX 9 to fix the issue"
+msgstr "warning!! shaders not supported#sum visualz may appear broken#plz install directx 9 to fix le issue"
+
+#. objMainMenuTitle
+msgid "Ver"
+msgstr "v"
+
+#. objTitleSubMenu
+msgid "Welcome to I Wanna Maker!##It looks like you don't have#an account connected yet."
+msgstr "welcome to i wanna maker!!##it looks like ya dont have#an account connectd yet :o"
+
+#. objTitleSubMenu
+msgid "Register new account"
+msgstr "regista new account"
+
+#. objTitleSubMenu
+msgid "Link existing IWM account"
+msgstr "link existing iwm account"
+
+#. objTitleSubMenu
+msgid "Log In with IWM Account"
+msgstr "login with iwm account"
+
+#. objTitleSubMenu
+msgid "Log In"
+msgstr "log in"
+
+#. objTitleSubMenu
+msgid "Link Account"
+msgstr "link account"
+
+#. objTitleSubMenu
+msgid "Forgot password?"
+msgstr "forgot password?"
+
+#. objTitleSubMenu
+msgid "Log In with Steam"
+msgstr "login with steam"
+
+#. objTitleSubMenu
+msgid "Log in with Steam automatically"
+msgstr "autologin"
+
+#. objBrowseList, scrGetKeybind
+msgid "Delete"
+msgstr "delete"
+
+#. objBrowseList
+msgid "ADMIN shadow map"
+msgstr "admin shadow map"
+
+#. objBrowseList
+msgid "Like/dislike ratio - visible after 5 votes"
+msgstr "like/dislike ratio - visibl afte 5 votez"
+
+#. objBrowseList, objDifficultySlider
+msgid "Clear Rate"
+msgstr "clear rate"
+
+#. objBrowseList
+msgid "100% Cleared"
+msgstr "full yay"
+
+#. objBrowseList
+msgid "No description"
+msgstr "no description :P"
+
+#. objBrowseList
+msgid "Replays always visible"
+msgstr "replayz alwayz visibl"
+
+#. objBrowseList
+msgid "Replays visible after clear"
+msgstr "replayz visibl after yay"
+
+#. objBrowseList
+msgid "Replays visible after 100% clear"
+msgstr "replayz visibl aftr full yay"
+
+#. objBrowseList, objBrowseListAddToPlaylist, objEditPlaylistMapCountLabel
+msgid "levels"
+msgstr "levelz"
+
+#. objBrowseList, objBrowseListAddToPlaylist
+msgid "Favorites"
+msgstr "favz"
+
+#. objBrowseList
+msgid "View in Editor"
+msgstr "view in editor"
+
+#. objBrowseList
+msgid "First Clear"
+msgstr "first clear"
+
+#. objBrowseList
+msgid "No record"
+msgstr "no record,,"
+
+#. objBrowseList, objChallengeMenuController
+msgid "Personal Record"
+msgstr "personal yay time"
+
+#. objBrowseList
+msgid "100% Personal Record"
+msgstr "personal full yay time"
+
+#. objBrowseList
+msgid "World Record"
+msgstr "world record"
+
+#. objBrowseList
+msgid "100% World Record"
+msgstr "full world record"
+
+#. objBrowseList
+msgid "No levels"
+msgstr "no lvlz"
+
+#. objBrowseList
+msgid "level"
+msgstr "level"
+
+#. objBrowseList
+msgid "No notifications"
+msgstr "no notifs"
+
+#. objBrowseList
+msgid "notification"
+msgstr "notificaton"
+
+#. objBrowseList
+msgid "notifications"
+msgstr "notificatons"
+
+#. objBrowseList
+msgid "No results"
+msgstr "no resultz"
+
+#. objBrowseList
+msgid "result"
+msgstr "result"
+
+#. objBrowseList
+msgid "results"
+msgstr "resultz"
+
+#. objBrowseList
+msgid "Show More"
+msgstr "shao mor"
+
+#. objBrowseList
+msgid "Show All"
+msgstr "shao all"
+
+#. objBrowseListAddToPlaylist
+msgid "Create new playlist"
+msgstr "create meow pleylist"
+
+#. objLeaderboardPopup, objLeaderboard, sapi_get_maps_result, sapi_get_list_result, sapi_get_lists_result, getChallengesCallback, getUserForChallengesMenuCallback
+msgid "Error"
+msgstr "oopsies"
+
+#. objLeaderboardPopup
+msgid "Watch"
+msgstr "watch"
+
+#. objLeaderboardPopup, objReportPopup
+msgid "Report replay"
+msgstr "report replay"
+
+#. objLeaderboardPopup, browseListViewOnlineMap, browseListWatchWorldRecord, browseListWatchPersonalRecord
+msgid "You have to clear the level first."
+msgstr "ya have to clear le lvl first :P"
+
+#. objLeaderboardPopup, browseListViewOnlineMap, browseListWatchWorldRecord, browseListWatchPersonalRecord
+msgid "You have to 100% clear the level first."
+msgstr "ya have to full clear le lvl first :p"
+
+#. objBrowseTagButton
+msgid "Tags"
+msgstr "tagz"
+
+#. objTagPicker
+msgid "Select up to %1 tags"
+msgstr "select up to %1 tagz"
+
+#. objTagPicker
+msgid "Untagged"
+msgstr "untaggd"
+
+#. objTagPicker
+msgid "Select All"
+msgstr "selec all"
+
+#. objTagPicker
+msgid "Select None"
+msgstr "selec none"
+
+#. objTagPicker
+msgid "Must have tag"
+msgstr "must has tag"
+
+#. objTagPicker
+msgid "Must not have tag"
+msgstr "must no has tag"
+
+#. objNotifPopup
+msgid "Mark all as read"
+msgstr "mark all as read"
+
+#. objNotifPopup
+msgid "Type"
+msgstr "type"
+
+#. objNotifPopup
+msgid "All"
+msgstr "all"
+
+#. objNotifPopup
+msgid "Record taken"
+msgstr "record taken"
+
+#. objNotifPopup
+msgid "Administrator actions"
+msgstr "admin actionz"
+
+#. objNotifPopup
+msgid "Read"
+msgstr "read"
+
+#. objProfilePopup, objReportPopup
+msgid "Report user"
+msgstr "report kitty"
+
+#. objProfilePopup
+msgid "Levels"
+msgstr "levelz"
+
+#. objProfilePopup
+msgid "Joined"
+msgstr "joind"
+
+#. objProfilePopup
+msgid "Administrator"
+msgstr "admin"
+
+#. objProfilePopup
+msgid "2019 Beta participant"
+msgstr "2019 beta kitty"
+
+#. objProfilePopup
+msgid "2019 Visuals contest winner"
+msgstr "2019 visualz contest winna"
+
+#. objProfilePopup
+msgid "2020 Prop contest winner"
+msgstr "2020 prop contest winna"
+
+#. objProfilePopup
+msgid "2021 Visuals contest winner"
+msgstr "2021 visualz contest winna"
+
+#. objProfilePopup
+msgid "Early Access player"
+msgstr "earli acces playa"
+
+#. objEditProfilePopup
+msgid "Country"
+msgstr "specie"
+
+#. objEditProfilePopup
+msgid "Costume"
+msgstr "costume"
+
+#. objEditProfilePopup
+msgid "Hat"
+msgstr "hat"
+
+#. objEditProfilePopup
+msgid "Colors"
+msgstr "colorz"
+
+#. objEditProfilePopup
+msgid "Death Effect"
+msgstr "silly effect"
+
+#. objCountryPicker
+msgid "No country"
+msgstr "outer space"
+
+#. objChallengeMenuController
+msgid "Attempt to complete a quest of highly rated levels!"
+msgstr "attemp to complet quest of high rated levelz!"
+
+#. objChallengeMenuController
+msgid "15 levels, 10 on Impossible"
+msgstr "15 levelz, 10 on imposibol"
+
+#. objChallengeMenuController
+msgid "lives"
+msgstr "livz"
+
+#. objChallengeMenuController
+msgid "skips"
+msgstr "skipz"
+
+#. objChallengeMenuController
+msgid "Clear as many highly rated levels as you can with a limited number of lives!"
+msgstr "clear as many high rated lvls as ya can with limited livs!!"
+
+#. objChallengeMenuController
+msgid "Explore newly created levels that you haven't played before, and discover hidden gems!"
+msgstr "explore new levelz and discover hidden gems :o"
+
+#. objChallengeMenuController, objChallengeDisplay
+msgid "Unlimited lives"
+msgstr "infinity livz"
+
+#. objChallengeMenuController, objChallengeDisplay
+msgid "Unlimited skips"
+msgstr "infinity skipz"
+
+#. objChallengeMenuController
+msgid "Roll an endless collection of completely random levels!"
+msgstr "roll endless collecton of random lvlz!!"
+
+#. objChallengeMenuController
+msgid "Start with 5 skips and gain a skip every 10 clears"
+msgstr "start with 5 skipz, gain one every 10 clearz"
+
+#. objChallengeMenuController
+msgid "Roll an endless collection of completely random levels, with only 3 skips!"
+msgstr "roll endless random levelz, with 3 skipz ONLY"
+
+#. objChallengeMenuController
+msgid "Customize your own challenge!"
+msgstr "make your own challeng!!"
+
+#. objChallengeMenuController
+msgid "Personal Records"
+msgstr "personal recordz"
+
+#. objChallengeDisplay
+msgid "Hold %1 to Skip"
+msgstr "skip: %1"
+
+#. objChallengeDisplay
+msgid "deaths"
+msgstr "dethz"
+
+#. objOptionsPopup
+msgid "Graphics"
+msgstr "graphicz"
+
+#. objOptionsPopup
+msgid "Online"
+msgstr "onlain"
+
+#. objOptionsPopup
+msgid "Keyboard"
+msgstr "keyboard"
+
+#. objOptionsPopup
+msgid "Controller"
+msgstr "controlla"
+
+#. objOptionsPopup
+msgid "Toggle In-Game Music"
+msgstr "toggla ingame music"
+
+#. objOptionsPopup
+msgid "Event SFX"
+msgstr "event sfx"
+
+#. objOptionsPopup
+msgid "Toggle level-specific event added sound effects"
+msgstr "toggle lvl event sound effectz"
+
+#. objOptionsPopup
+msgid "Master Volume"
+msgstr "masta volume"
+
+#. objOptionsPopup
+msgid "Adjust global volume level"
+msgstr "adjust global volume"
+
+#. objOptionsPopup
+msgid "Music Volume"
+msgstr "music volume"
+
+#. objOptionsPopup
+msgid "Adjust music volume level"
+msgstr "adjust muusik volum lvl"
+
+#. objOptionsPopup
+msgid "SFX Volume"
+msgstr "sfx volume"
+
+#. objOptionsPopup
+msgid "Adjust SFX volume level"
+msgstr "adjust soind effect volume"
+
+#. objOptionsPopup
+msgid "Mute on focus loss"
+msgstr "mute on focus loss"
+
+#. objOptionsPopup
+msgid "Mute the game when outside the game window"
+msgstr "mute game when outside gam window"
+
+#. objOptionsPopup
+msgid "Undo size"
+msgstr "undo size"
+
+#. objOptionsPopup
+msgid "Set number of action undos saved in the editor"
+msgstr "set number of action undos saved in editr"
+
+#. objOptionsPopup
+msgid "Sidebar in Play mode"
+msgstr "sidebar in play modo"
+
+#. objOptionsPopup
+msgid "Set visibility of sidebar while playing levels"
+msgstr "set visibility of sidebar while playig levelz"
+
+#. objOptionsPopup
+msgid "Debug info"
+msgstr "nerd kitty info"
+
+#. objOptionsPopup
+msgid "View debug information such as FPS"
+msgstr "view nerdy stuff like fps"
+
+#. objOptionsPopup
+msgid "Vine mode"
+msgstr "vine mode"
+
+#. objOptionsPopup
+msgid "Adjust vine jump behavior. Determines whether jumping off occurs on directional arrow press, jump press or either"
+msgstr "adjus vine jump behavor"
+
+#. objOptionsPopup
+msgid "Editor Autosave Interval"
+msgstr "editr autosav interval"
+
+#. objOptionsPopup
+msgid "Adjust how frequently the editor autosaves"
+msgstr "adjus how frequently editr autosaves"
+
+#. objOptionsPopup
+msgid "Level Restart Shortcut"
+msgstr "lvl restart shortcut"
+
+#. objOptionsPopup
+msgid "Toggle Ctrl+R shortcut to restart the level"
+msgstr "toggle ctrl+r shortcut to restart lvl"
+
+#. objOptionsPopup
+msgid "Automatic Restart"
+msgstr "autorestart"
+
+#. objOptionsPopup
+msgid "Toggle automatically restarting after dying"
+msgstr "toggl auto restart after death"
+
+#. objOptionsPopup
+msgid "Low jump cancels in Upload mode"
+msgstr "low jump cancelz in upload mode"
+
+#. objOptionsPopup
+msgid "Toggle enabling jump cancels while uploading a level. Disable this setting if you're getting incorrect low jump cancel detected messages on level upload."
+msgstr "toggle enablin jump cancelz while uploadin a lvl"
+
+#. objOptionsPopup
+msgid "Online level lobbies"
+msgstr "online lvl lobbiez"
+
+#. objOptionsPopup
+msgid "Toggle getting matched with random players when playing a level"
+msgstr "toggle getting dialed with random kittenz when playing level"
+
+#. objOptionsPopup
+msgid "Lobby chat"
+msgstr "lobbi chat"
+
+#. objOptionsPopup
+msgid "Toggle in-game chat when in an online lobby"
+msgstr "toggle ingame hcat when in online lobby"
+
+#. objOptionsPopup
+msgid "Show online player names"
+msgstr "shao online kitte namez"
+
+#. objOptionsPopup
+msgid "Toggle showing player names over their heads when in an online lobby"
+msgstr "toggle showing kitty namez over headz"
+
+#. objOptionsPopup
+msgid "Online player opacity"
+msgstr "online playa opaciti"
+
+#. objOptionsPopup
+msgid "Adjust opacity of other players when in an online lobby"
+msgstr "adjust transparency of other kittenz when in online lobby"
+
+#. objOptionsPopup
+msgid "Online name opacity"
+msgstr "online name opacity"
+
+#. objOptionsPopup
+msgid "Adjust opacity of names over player heads when in an online lobby"
+msgstr "adjust name transparency when in online lobby"
+
+#. objOptionsPopup
+msgid "Fullscreen"
+msgstr "full screen"
+
+#. objOptionsPopup
+msgid "Toggle Fullscreen or Windowed Mode (F4)"
+msgstr "toggl fullscreen or windowd mode (f4)"
+
+#. objOptionsPopup
+msgid "Smoothing Mode"
+msgstr "smoothing modo"
+
+#. objOptionsPopup
+msgid "Toggle graphical smoothing when fullscreen, affecting sharpness of edges"
+msgstr "togle graphical smoothing"
+
+#. objOptionsPopup
+msgid "Vsync"
+msgstr "vsync"
+
+#. objOptionsPopup
+msgid "Toggle Vsync, may affect visual performance and delay. Recommended if experiencing screen tearing"
+msgstr "toggle vertical sync, may affect visuall performanc and delay, recommended if screen is tearing"
+
+#. objOptionsPopup
+msgid "Dropshadows"
+msgstr "dropshadowz"
+
+#. objOptionsPopup
+msgid "Toggle drawing of drop shadows on objects. Disabling will improve performance"
+msgstr "toggle drawing shadowz on objectz"
+
+#. objOptionsPopup
+msgid "Kid tracking speed"
+msgstr "kitty tracting speed"
+
+#. objOptionsPopup
+msgid "Adjust camera follow speed. Instant will track immediately, while the others will slide gracefully at the indicated speed"
+msgstr "adjust camera follow speedz, instant trackz immediately, otherz slide with given speed"
+
+#. objOptionsPopup
+msgid "Kid tracking style"
+msgstr "kitten tracking style"
+
+#. objOptionsPopup
+msgid "Adjust how the smooth camera tracks the player. Smart will track the player less often to make the camera less jerky"
+msgstr "adjust how smooth camera trackz kitty"
+
+#. objOptionsPopup
+msgid "Screen lock transition speed"
+msgstr "screen loc transition speedz"
+
+#. objOptionsPopup
+msgid "Adjust camera transition speed on Screen locked levels. Instant will change screens immediately, while the others will slide gradually at the indicated speed."
+msgstr "adjust camera transition speedz on screen locked lvlz"
+
+#. objOptionsPopup
+msgid "Wavy water"
+msgstr "wavy water"
+
+#. objOptionsPopup
+msgid "Toggle wavy edges on water tiles. Affects performance and visibility"
+msgstr "toggle wavy edgez on water tilez"
+
+#. objOptionsPopup
+msgid "Toggle window size"
+msgstr "toggle window saiz"
+
+#. objOptionsPopup
+msgid "Toggle the window size between 1x scale, 1.5x scale, and 2x scale (F5)"
+msgstr "toggle window size between 1x, 1.5x an 2x (f5)"
+
+#. objOptionsPopup
+msgid "Show level record in sidebar"
+msgstr "shao lvl record in sidebar"
+
+#. objOptionsPopup
+msgid "Toggle showing the level record in the sidebar"
+msgstr "toggl showing lvl record in sidebar"
+
+#. objOptionsPopup
+msgid "Show current playtime in sidebar"
+msgstr "show current plaetime in sidebar"
+
+#. objOptionsPopup
+msgid "Toggle showing the current level playtime in the sidebar"
+msgstr "toggle showing current lvl playtime"
+
+#. objOptionsPopup
+msgid "Graphics quality"
+msgstr "graphics quality"
+
+#. objOptionsPopup
+msgid "Adjust graphics quality. Set to Low if you're experiencing performance issues"
+msgstr "adjust graphics quality, set to low if experiencing lagz"
+
+#. objOptionsPopup
+msgid "Screen shake intensity"
+msgstr "screem shake intensity"
+
+#. objOptionsPopup
+msgid "Adjusts the intensity of the screen shake effect"
+msgstr "adjusts intensity of screen shake effec"
+
+#. objOptionsPopup
+msgid "Reset Controls"
+msgstr "reset controlz"
+
+#. objOptionsPopup
+msgid "Combined"
+msgstr "combined"
+
+#. objOptionsPopup
+msgid "Arrows + Hold Jump"
+msgstr "arrowz + hold jump"
+
+#. objOptionsPopup
+msgid "Press Jump"
+msgstr "press jump"
+
+#. objOptionsPopup
+msgid "Minutes"
+msgstr "minutez"
+
+#. objOptionsPopup
+msgid "Low"
+msgstr "low"
+
+#. objOptionsPopup
+msgid "High"
+msgstr "high"
+
+#. objOptionsPopup
+msgid "Simple tracking"
+msgstr "simpl tracking"
+
+#. objOptionsPopup
+msgid "Smart tracking"
+msgstr "smart tracking"
+
+#. objOptionsPopup
+msgid "Instant"
+msgstr "instant"
+
+#. objOptionsPopup, startEditingParam
+msgid "Normal"
+msgstr "normal"
+
+#. objOptionsPopup
+msgid "Slow"
+msgstr "slow"
+
+#. objOptionsPopup, scrInitCosmetics
+msgid "None"
+msgstr "none"
+
+#. objOptionsPopup
+msgid "Reduced"
+msgstr "reduce"
+
+#. objOptionsPopup
+msgid "Left Button"
+msgstr "left button"
+
+#. objOptionsPopup
+msgid "Right Button"
+msgstr "rite buton"
+
+#. objOptionsPopup
+msgid "Up Button"
+msgstr "up buton"
+
+#. objOptionsPopup
+msgid "Down Button"
+msgstr "dawn button"
+
+#. objOptionsPopup
+msgid "Jump/Accept Button"
+msgstr "jump/accept button"
+
+#. objOptionsPopup
+msgid "Shoot/Back Button"
+msgstr "shoot/bac button"
+
+#. objOptionsPopup
+msgid "Restart Button"
+msgstr "restart button"
+
+#. objOptionsPopup
+msgid "Pause Button"
+msgstr "pause button"
+
+#. objOptionsPopup
+msgid "Skip Button"
+msgstr "skip button"
+
+#. objOptionsPopup
+msgid "Rotate Button"
+msgstr "rotate button"
+
+#. objOptionsPopup
+msgid "Object Picker Button"
+msgstr "objec picka button"
+
+#. objOptionsPopup
+msgid "Area Button"
+msgstr "area button"
+
+#. objOptionsPopup
+msgid "Duplicate Button"
+msgstr "dupe button"
+
+#. objOptionsPopup
+msgid "Link To Object Button"
+msgstr "link to objec button"
+
+#. objOptionsPopup
+msgid "Unlink Object Button"
+msgstr "unlink object button"
+
+#. objOptionsPopup
+msgid "Grid Button"
+msgstr "grid button"
+
+#. objOptionsPopup
+msgid "Editor Pause Button"
+msgstr "editr pause button"
+
+#. objOptionsPopup
+msgid "Editor Save Button"
+msgstr "editr save button"
+
+#. objOptionsPopup
+msgid "Editor Force Place Button"
+msgstr "editor force place button"
+
+#. objOptionsPopup
+msgid "Editor Place Player Button"
+msgstr "editr place playr button"
+
+#. objOptionsPopup
+msgid "Editor Next Room Button"
+msgstr "editor next room button"
+
+#. objOptionsPopup
+msgid "Editor Previous Room Button"
+msgstr "editor previous room button"
+
+#. objOptionsPopup
+msgid "Chat Button"
+msgstr "chat button"
+
+#. objOptionsItem
+msgid "Disabled"
+msgstr "disabled"
+
+#. objOptionsItem
+msgid "Press a key"
+msgstr "press a key,,"
+
+#. objOptionsItem
+msgid "Press a button"
+msgstr "press a button,,"
+
+#. objReportPopup
+msgid "Send report"
+msgstr "send report"
+
+#. objReportPopup, scrCreateRateButtons
+msgid "Report level"
+msgstr "report level"
+
+#. objReportPopup
+msgid "Example reasons"
+msgstr "example reasonz"
+
+#. objReportPopup, getLevelDeleteReasonString
+msgid "Inappropriate name or description"
+msgstr "inapropriet name or descripsion"
+
+#. objReportPopup, getLevelDeleteReasonString
+msgid "Inappropriate content"
+msgstr "inapropriate content"
+
+#. objReportPopup, getLevelDeleteReasonString
+msgid "Unreasonably long forced waiting"
+msgstr "super long forced waiting"
+
+#. objReportPopup
+msgid "Intentionally lags the game"
+msgstr "intentionally lags le game"
+
+#. objReportPopup
+msgid "NOT valid reasons"
+msgstr "not valid reasons!!"
+
+#. objReportPopup
+msgid "Level is difficult"
+msgstr "level is difficul"
+
+#. objReportPopup
+msgid "Level is low quality"
+msgstr "level is low qualiti"
+
+#. objReportPopup
+msgid "Inappropriate name"
+msgstr "inappropriat name"
+
+#. objReportPopup
+msgid "Appears to have cheated"
+msgstr "appears to have cheatd"
+
+#. objReportPopup
+msgid "Appears to use autofire/scripts/macros"
+msgstr "appearz to use scripting"
+
+#. objReportPopup
+msgid "Appears desynced or broken"
+msgstr "appearz desynced or broken"
+
+#. objReportPopup
+msgid "Hate speech or bigotry"
+msgstr "hate speech or bigotry"
+
+#. objReportPopup
+msgid "Adult or sexual content"
+msgstr "naughty adult behavior"
+
+#. objReportPopup
+msgid "Circumventing the chat filter"
+msgstr "bypassing chat filter"
+
+#. objReportPopup
+msgid "The chat log will be included in the report."
+msgstr "chat log will be included in report :P"
+
+#. objButton
+msgid "New Weekly Mix"
+msgstr "new meow mix!!"
+
+#. objButton
+msgid "New Following Levels"
+msgstr "new following lvls!!"
+
+#. objTextbox, objNewTextbox
+msgid "The string you tried to paste was too long!"
+msgstr "string u tried to paste is too lon!!"
+
+#. objTextbox, objNewTextbox
+msgid "You can type Japanese, Chinese, and Korean characters, and paste using Ctrl+V."
+msgstr "ya can write japanese, chines, and korean characterz, and paste using ctrl+v :3"
+
+#. objTextbox, objNewTextbox
+msgid "Your email will only be used for password recovery. It won't be public and we won't share it."
+msgstr "yor email will be used just for password recovery, its private and we no share it"
+
+#. objSlider
+msgid "Hue"
+msgstr "hue"
+
+#. objSlider
+msgid "Sat"
+msgstr "sat"
+
+#. objSlider
+msgid "Val"
+msgstr "val"
+
+#. objLevelIDPopup, createOkPopup
+msgid "OK"
+msgstr "okay"
+
+#. objStoryMapIntro
+msgid "Traveling to"
+msgstr "traveling to"
+
+#. objStoryMapWorldThumbnail
+msgid "World %1"
+msgstr "world %1"
+
+#. objStoryMapPlayer
+msgid "%1 - Enter Level         Hold %2 - Run         %3 - Choose World"
+msgstr "%1 - enter level         hold %2 - run         %3 - choose world"
+
+#. objIntroCutsceneController
+msgid "Ah, what a beautiful day!"
+msgstr "ah, what a beautiful day!! uwu"
+
+#. objIntroCutsceneController
+msgid "I don't think anything could ruin this moment right now."
+msgstr "me no think anything can ruin this moment right now :3"
+
+#. objIntroCutsceneController
+msgid "HELLO %1!!"
+msgstr "hello %1!!"
+
+#. objIntroCutsceneController
+msgid "HELLO KID!!"
+msgstr "hello!!"
+
+#. objIntroCutsceneController
+msgid "DO YOU WISH TO PLAY MY WONDERFUL LEVELS?"
+msgstr "do ya wish ya wanna play my epic levelz??"
+
+#. objIntroCutsceneController
+msgid "What?"
+msgstr "what?"
+
+#. objIntroCutsceneController
+msgid "And how do you know my name?"
+msgstr "how do ya know my name?? @w@"
+
+#. objIntroCutsceneController
+msgid "And why are you here?"
+msgstr "and why are ya here?"
+
+#. objIntroCutsceneController
+msgid "GLAD YOU AGREE, LET'S GET GOING!!"
+msgstr "glad ya agree :3 let's go!!"
+
+#. objIntroCutsceneController
+msgid "Ahh!!!"
+msgstr "aaaa!!"
+
+#. objIntroCutsceneController
+msgid "Let me go!!!"
+msgstr "lemme go!! qwq"
+
+#. objEndCutsceneController
+msgid "wait..."
+msgstr "wait..."
+
+#. objEndCutsceneController
+msgid "before you go, tell me..."
+msgstr "before ya go,,, tell me..."
+
+#. objEndCutsceneController
+msgid "did you enjoy my levels?"
+msgstr "did ya enjoy ma levelz..?"
+
+#. objEndCutsceneController
+msgid "thanks for playing!"
+msgstr ":3"
+
+#. objEndCutsceneController
+msgid "interested in seeing what you can make!"
+msgstr "interested in seeing what ya can make ^^"
+
+#. objEndCutsceneController
+msgid "until next time"
+msgstr "until next time :p"
+
+#. objEndCutsceneController
+msgid "oh..."
+msgstr "oh,,,"
+
+#. objEndCutsceneController
+msgid "thanks for playing anyway"
+msgstr "thankz for playing, anyways,,"
+
+#. objEndCutsceneController
+msgid "maybe you'll like my next adventure"
+msgstr "maybe ya will like my next adventure :p"
+
+#. scrInitCosmetics
+msgid "Bow"
+msgstr "bow"
+
+#. scrInitCosmetics
+msgid "Kid Cap"
+msgstr "kitty cap"
+
+#. scrInitCosmetics
+msgid "Fish Bowl"
+msgstr "cat bowl"
+
+#. scrInitCosmetics
+msgid "Arrow"
+msgstr "arrow"
+
+#. scrInitCosmetics
+msgid "Blocktroid"
+msgstr "blockkitty"
+
+#. scrInitCosmetics
+msgid "Fez"
+msgstr "fez"
+
+#. scrInitCosmetics
+msgid "Fro"
+msgstr "fro"
+
+#. scrInitCosmetics
+msgid "Geezer"
+msgstr "geezer"
+
+#. scrInitCosmetics
+msgid "Goggles"
+msgstr "google"
+
+#. scrInitCosmetics
+msgid "Knight"
+msgstr "knite"
+
+#. scrInitCosmetics
+msgid "Shovel Knight"
+msgstr "shovel knite"
+
+#. scrInitCosmetics
+msgid "Leek"
+msgstr "leek"
+
+#. scrInitCosmetics
+msgid "Bread"
+msgstr "bread"
+
+#. scrInitCosmetics
+msgid "Sombrero"
+msgstr "somebro"
+
+#. scrInitCosmetics
+msgid "Astronaut"
+msgstr "astronaut"
+
+#. scrInitCosmetics
+msgid "Ghoul"
+msgstr "ghoul"
+
+#. scrInitCosmetics
+msgid "Top Hat"
+msgstr "top hat"
+
+#. scrInitCosmetics
+msgid "Flower"
+msgstr "flowa"
+
+#. scrInitCosmetics
+msgid "Bandana"
+msgstr "bandana"
+
+#. scrInitCosmetics
+msgid "Final Form"
+msgstr "final form"
+
+#. scrInitCosmetics
+msgid "Bandit"
+msgstr "bandit"
+
+#. scrInitCosmetics, regenerateLocalizedStaticStrings
+msgid "Delicious Fruit"
+msgstr "delicious fruit"
+
+#. scrInitCosmetics
+msgid "Sports Fan"
+msgstr "sportz fan"
+
+#. scrInitCosmetics
+msgid "Ducky"
+msgstr "ducky"
+
+#. scrInitCosmetics
+msgid "Night Cap"
+msgstr "nite cap"
+
+#. scrInitCosmetics
+msgid "Crown"
+msgstr "crown"
+
+#. scrInitCosmetics
+msgid "Ribbon"
+msgstr "ribbon"
+
+#. scrInitCosmetics
+msgid "Cat"
+msgstr "cat"
+
+#. scrInitCosmetics
+msgid "Halo"
+msgstr "hello"
+
+#. scrInitCosmetics
+msgid "Angel Wings"
+msgstr "angel wingz"
+
+#. scrInitCosmetics
+msgid "Pompadour"
+msgstr "pompadour"
+
+#. scrInitCosmetics
+msgid "Demon Wings"
+msgstr "demon wingz"
+
+#. scrInitCosmetics
+msgid "Devil Horns"
+msgstr "devil hornz"
+
+#. scrInitCosmetics
+msgid "Wizard"
+msgstr "wizard"
+
+#. scrInitCosmetics, sfm_object_friendly_name
+msgid "Chair"
+msgstr "chair"
+
+#. scrInitCosmetics
+msgid "Kamilia"
+msgstr "kamilia"
+
+#. scrInitCosmetics
+msgid "Party Hat"
+msgstr "party kitty"
+
+#. scrInitCosmetics, sfm_object_friendly_name
+msgid "Crusher"
+msgstr "crusha"
+
+#. scrInitCosmetics
+msgid "Birthday Cake"
+msgstr "birthday cake"
+
+#. scrInitCosmetics, initStoryMaps
+msgid "Mr. Scribble"
+msgstr "mr scriblo"
+
+#. scrInitCosmetics
+msgid "Santa"
+msgstr "santa"
+
+#. scrInitCosmetics
+msgid "Mining Helmet"
+msgstr "mining helmet"
+
+#. scrInitCosmetics
+msgid "Stylish"
+msgstr "stylish"
+
+#. scrInitCosmetics
+msgid "Propeller Hat"
+msgstr "propella hat"
+
+#. scrInitCosmetics
+msgid "Jester"
+msgstr "jester"
+
+#. scrInitCosmetics
+msgid "Ninja"
+msgstr "ninja"
+
+#. scrInitCosmetics
+msgid "Cyber"
+msgstr "cyber"
+
+#. scrInitCosmetics
+msgid "Cat Ears"
+msgstr "cat earz"
+
+#. scrInitCosmetics
+msgid "Fox"
+msgstr "fox"
+
+#. scrInitCosmetics
+msgid "Clown"
+msgstr "clown"
+
+#. scrInitCosmetics
+msgid "Burger"
+msgstr "boiga"
+
+#. scrInitCosmetics
+msgid "Default"
+msgstr "default"
+
+#. scrInitCosmetics
+msgid "Classic"
+msgstr "classic"
+
+#. scrInitCosmetics
+msgid "K3"
+msgstr "k3"
+
+#. scrInitCosmetics
+msgid "Party"
+msgstr "party"
+
+#. scrInitCosmetics
+msgid "Crushed"
+msgstr "crushed"
+
+#. scrInitCosmetics
+msgid "Explosion"
+msgstr "explosion!!"
+
+#. init_music_tracks
+msgid "no music"
+msgstr "no musik"
+
+#. init_music_tracks
+msgid "misc"
+msgstr "misc"
+
+#. init_music_tracks
+msgid "cave"
+msgstr "cave"
+
+#. init_music_tracks
+msgid "plains"
+msgstr "plainz"
+
+#. init_music_tracks
+msgid "factory"
+msgstr "factori"
+
+#. init_music_tracks
+msgid "desert"
+msgstr "desert"
+
+#. init_music_tracks
+msgid "ocean"
+msgstr "ocean"
+
+#. init_music_tracks
+msgid "snow"
+msgstr "snaw"
+
+#. init_music_tracks
+msgid "space"
+msgstr "space"
+
+#. init_music_tracks
+msgid "abstract"
+msgstr "abstract"
+
+#. init_music_tracks
+msgid "goofy"
+msgstr "silly!!"
+
+#. init_music_tracks
+msgid "chill"
+msgstr "chill"
+
+#. init_music_tracks
+msgid "boss"
+msgstr "boss"
+
+#. init_music_tracks
+msgid "dance"
+msgstr "dance"
+
+#. init_music_tracks
+msgid "eerie"
+msgstr "spooky"
+
+#. init_music_tracks
+msgid "castle"
+msgstr "castle"
+
+#. getBanReasonString
+msgid "Inappropriate level name or description"
+msgstr "inapropriate level name or description"
+
+#. getBanReasonString
+msgid "Inappropriate user name"
+msgstr "inapropriate username"
+
+#. getBanReasonString
+msgid "Inappropriate playlist name"
+msgstr "inapropriate pleylist name"
+
+#. getBanReasonString, getReplayRemovedReasonString
+msgid "Autofire/macros/scripting"
+msgstr "autofire, macros or scripting"
+
+#. getBanReasonString
+msgid "Inappropriate level content"
+msgstr "inapropriate level content"
+
+#. getBanReasonString
+msgid "Level having unreasonably long forced waiting"
+msgstr "level having very long forced waiting"
+
+#. getBanReasonString
+msgid "Level intentionally lagging the game"
+msgstr "level intentionally lags le game"
+
+#. getBanReasonString
+msgid "Exploiting the game"
+msgstr "exploiting le game"
+
+#. getReplayRemovedReasonString
+msgid "Replay was broken"
+msgstr "replay was broken"
+
+#. getLevelDeleteReasonString
+msgid "Submitted using autofire/macros/scripting"
+msgstr "submitted using scripting"
+
+#. getLevelDeleteReasonString
+msgid "Intentionally lagging the game"
+msgstr "intentionally lagging le game"
+
+#. regenerateLocalizedStaticStrings
+msgid "Easy"
+msgstr "ez"
+
+#. regenerateLocalizedStaticStrings
+msgid "Medium"
+msgstr "med"
+
+#. regenerateLocalizedStaticStrings
+msgid "Hard"
+msgstr "hard"
+
+#. regenerateLocalizedStaticStrings
+msgid "Impossible"
+msgstr "imposibl"
+
+#. regenerateLocalizedStaticStrings
+msgid "Moderate or better"
+msgstr "moderate or better"
+
+#. regenerateLocalizedStaticStrings
+msgid "Good"
+msgstr "good"
+
+#. regenerateLocalizedStaticStrings
+msgid "Mr. Scribble's Quest"
+msgstr "mr scriblo quest"
+
+#. regenerateLocalizedStaticStrings
+msgid "Chat Challenge"
+msgstr "chat challeng"
+
+#. regenerateLocalizedStaticStrings
+msgid "Endurance"
+msgstr "enduranc"
+
+#. regenerateLocalizedStaticStrings
+msgid "Cherry"
+msgstr "cherry"
+
+#. regenerateLocalizedStaticStrings
+msgid "Apple"
+msgstr "apple"
+
+#. regenerateLocalizedStaticStrings
+msgid "Adventure"
+msgstr "adventur"
+
+#. regenerateLocalizedStaticStrings
+msgid "Boss/Avoidance"
+msgstr "boss/avoidance"
+
+#. regenerateLocalizedStaticStrings
+msgid "Spike-Centric"
+msgstr "needle"
+
+#. regenerateLocalizedStaticStrings
+msgid "Joke/Meme"
+msgstr "joke/meme"
+
+#. regenerateLocalizedStaticStrings
+msgid "Auto-Play"
+msgstr "autoplay"
+
+#. regenerateLocalizedStaticStrings
+msgid "Puzzle"
+msgstr "puzzle"
+
+#. regenerateLocalizedStaticStrings
+msgid "Gimmick-Centric"
+msgstr "gimmick"
+
+#. regenerateLocalizedStaticStrings
+msgid "Trap/Troll"
+msgstr "trap"
+
+#. regenerateLocalizedStaticStrings
+msgid "Custom Music"
+msgstr "custom music"
+
+#. regenerateLocalizedStaticStrings
+msgid "Art"
+msgstr "art"
+
+#. regenerateLocalizedStaticStrings
+msgid "Error: no valid session ticket.#Please check your connection to Steam"
+msgstr "error, invalid session ticket#check yoir conection to steam"
+
+#. initStoryMaps
+msgid "Press Jump while touching a platform to jump again!"
+msgstr "press jump while touchin platform to jump again!"
+
+#. initStoryMaps
+msgid "Trust the arrow!"
+msgstr "trus tle arrow!"
+
+#. initStoryMaps
+msgid "Vines don't replenish your double jump, so try saving it!"
+msgstr "vines dont replenish double jump, try savin it :3"
+
+#. initStoryMaps
+msgid "You can save your double jump when falling through water."
+msgstr "ya can save yor double jump when falling thru water"
+
+#. initStoryMaps
+msgid "Refreshing water refreshes your double jump."
+msgstr "refreshing water refreshes double jump"
+
+#. initStoryMaps
+msgid "Blue coins can be saved at a Save point!"
+msgstr "blue coins can be saved at save point!"
+
+#. initStoryMaps
+msgid "The red parachute stays attached even after landing."
+msgstr "red parachute stays even after landing :p"
+
+#. initStoryMaps
+msgid "Turn around quickly after touching this spring!"
+msgstr "turn around quickly after touching spring!!"
+
+#. initStoryMaps
+msgid "The yellow star allows you to triple jump!"
+msgstr "yellow star gives triple jump! triple!!"
+
+#. initStoryMaps
+msgid "Gray stars reset the jump count back to 2."
+msgstr "gray starz reset jump count back to 2"
+
+#. initStoryMaps
+msgid "Shields do not protect against lasers."
+msgstr "shield do not protecc against laserz"
+
+#. initStoryMaps
+msgid "You maintain momentum after teleporting."
+msgstr "ya mantain momentum after teleporting"
+
+#. initStoryMaps
+msgid "ARCADE"
+msgstr "arcade uwu"
+
+#. initStoryMaps
+msgid "Push the button to play!"
+msgstr "push le button to play!"
+
+#. initStoryMaps
+msgid "Hello! Welcome to the prize shop!"
+msgstr "haii!! welcome to prize shop :3"
+
+#. initStoryMaps
+msgid "I'm not letting you through until you prove to me that you're a real gamer!"
+msgstr "im not letting ya through until ya prove to me that ya are a real gamer! uwu"
+
+#. initStoryMaps
+msgid "Oh wow! You really are a gamer! You can go through now."
+msgstr "oh wow!! >w< ya really are a gamer! ya can go now :3"
+
+#. initStoryMaps
+msgid "Press Shoot to start"
+msgstr "press shoot to start"
+
+#. initStoryMaps
+msgid "Stage clear!"
+msgstr "stage clear!!"
+
+#. initStoryMaps
+msgid "Press Shoot to continue"
+msgstr "press shoot to continue :3"
+
+#. initStoryMaps
+msgid "Congratulations!"
+msgstr "congrats!!"
+
+#. initStoryMaps
+msgid "- Stage 1 -"
+msgstr "- stage 1 -"
+
+#. initStoryMaps
+msgid "- Stage 2 -"
+msgstr "- stage 2 -"
+
+#. initStoryMaps
+msgid "- Stage 3 -"
+msgstr "- stage 3 -"
+
+#. initStoryMaps
+msgid "nothing here"
+msgstr "nothing here :p"
+
+#. initStoryMaps
+msgid "I forgive you"
+msgstr "i forgive ya"
+
+#. initStoryMaps
+msgid "Be nice to this birb, or else..."
+msgstr "be nice to this birb, or else,,,"
+
+#. initStoryMaps
+msgid "Apples are dangerous. Watch out!"
+msgstr "applez are danger!! wathc out!!"
+
+#. initStoryMaps
+msgid "Hold Jump to slow down the bubble!"
+msgstr "hold jump to slow down le bubble!!"
+
+#. initStoryMaps
+msgid "← EXIT"
+msgstr "← tixe"
+
+#. initStoryMaps
+msgid "EXIT →"
+msgstr "exit →"
+
+#. initStoryMaps
+msgid "← GEM"
+msgstr "← gem"
+
+#. initStoryMaps
+msgid "Escape →"
+msgstr "escape →"
+
+#. initStoryMaps
+msgid "Well done!"
+msgstr "well done!!"
+
+#. initStoryMaps
+msgid "Your final battle lies ahead."
+msgstr "yor final battle lies ahead,,"
+
+#. initStoryMaps
+msgid "Good luck."
+msgstr "good luck!! ya can do it :3"
+
+#. initStoryMaps
+msgid "Tutorial"
+msgstr "tutorial"
+
+#. initStoryMaps
+msgid "Mellow Hills"
+msgstr "mellow hillz"
+
+#. initStoryMaps
+msgid "Crumbly Cavern"
+msgstr "crumbly cavern"
+
+#. initStoryMaps
+msgid "The Great Climb"
+msgstr "le great climb"
+
+#. initStoryMaps
+msgid "Walker Woods"
+msgstr "walker woodz"
+
+#. initStoryMaps
+msgid "Moonlit Mountaintop"
+msgstr "moonlit mountaintop"
+
+#. initStoryMaps
+msgid "Wading Through the Swamp"
+msgstr "wading through le swamp"
+
+#. initStoryMaps
+msgid "The Hive"
+msgstr "le hive"
+
+#. initStoryMaps
+msgid "Walker Council"
+msgstr "walka council"
+
+#. initStoryMaps
+msgid "Flippy Bird"
+msgstr "flippy bird"
+
+#. initStoryMaps
+msgid "Welcome to the City"
+msgstr "welcome to le city"
+
+#. initStoryMaps
+msgid "Grand Maker Casino"
+msgstr "grand maker casino"
+
+#. initStoryMaps
+msgid "Train Heist"
+msgstr "train heist"
+
+#. initStoryMaps
+msgid "Teleparty"
+msgstr "teleparty"
+
+#. initStoryMaps
+msgid "Flying Dreadnought"
+msgstr "flying breadkneadght"
+
+#. initStoryMaps
+msgid "Midnight Skydive"
+msgstr "midnite skaidaiv"
+
+#. initStoryMaps
+msgid "The Sky Pirates"
+msgstr "le sky piratez"
+
+#. initStoryMaps
+msgid "Juggle Struggle"
+msgstr "juggle struggl"
+
+#. initStoryMaps
+msgid "Snow Rabbit"
+msgstr "snow rabbit"
+
+#. initStoryMaps
+msgid "Frozen Cliffs"
+msgstr "frozen cliffz"
+
+#. initStoryMaps
+msgid "Castle Crashing"
+msgstr "castl crashin"
+
+#. initStoryMaps
+msgid "Frigid Keep"
+msgstr "frgd keep"
+
+#. initStoryMaps
+msgid "The Great Crate Dungeon"
+msgstr "le great crate dungeon"
+
+#. initStoryMaps
+msgid "Battle Atop the Castle"
+msgstr "battl atop le castle"
+
+#. initStoryMaps
+msgid "Mechanical Angel Prototype"
+msgstr "mechanical angel prototype"
+
+#. initStoryMaps
+msgid "House of Spikes"
+msgstr "house of spikez"
+
+#. initStoryMaps
+msgid "Gravitational Testing Facility"
+msgstr "gravitetional testin faciliti"
+
+#. initStoryMaps
+msgid "Speedy Station"
+msgstr "speedi station"
+
+#. initStoryMaps
+msgid "Wish Upon a Shooting Star"
+msgstr "wish upon a shootin star"
+
+#. initStoryMaps
+msgid "Wreck Site 032"
+msgstr "wreck site 032"
+
+#. initStoryMaps
+msgid "The Teleport Dimension"
+msgstr "le teleport dimension"
+
+#. initStoryMaps
+msgid "Inside the Void"
+msgstr "insaid le void"
+
+#. initStoryMaps
+msgid "Space Marauder"
+msgstr "space merauder"
+
+#. initStoryMaps
+msgid "The Space Arcade"
+msgstr "le space arcade"
+
+#. initStoryMaps
+msgid "Factory Maintenance"
+msgstr "factori maintenans"
+
+#. initStoryMaps
+msgid "Curse of the Pyramid"
+msgstr "curse of le pyramid"
+
+#. initStoryMaps
+msgid "Conveyor Surveyor"
+msgstr "conveyor surveyor"
+
+#. initStoryMaps
+msgid "Central Drone Tower"
+msgstr "centrol drone towa"
+
+#. initStoryMaps
+msgid "Scale Experiments Kid"
+msgstr "scale experimentz kitty"
+
+#. initStoryMaps
+msgid "Burst Block Fever"
+msgstr "burst bloc feva"
+
+#. initStoryMaps
+msgid "Stasis Sector"
+msgstr "stasis secto"
+
+#. initStoryMaps
+msgid "Crusher of Legend"
+msgstr "crusha of legend"
+
+#. initStoryMaps
+msgid "The Swapper"
+msgstr "le swappa"
+
+#. initStoryMaps
+msgid "Graveyard of the Rising Spirits"
+msgstr "graveyar of le risin spiritz"
+
+#. initStoryMaps
+msgid "Valley of the Thorns"
+msgstr "valley of le thornz"
+
+#. initStoryMaps
+msgid "Telekid Manor"
+msgstr "telekitty manor"
+
+#. initStoryMaps
+msgid "Falling Up"
+msgstr "fallin up"
+
+#. initStoryMaps
+msgid "The Art of Acceleration"
+msgstr "le art of acelerasion"
+
+#. initStoryMaps
+msgid "Don't Pop the Bubble"
+msgstr "no pop le bubble"
+
+#. initStoryMaps
+msgid "The Council Reborn"
+msgstr "le council reborn"
+
+#. initStoryMaps
+msgid "Mischevious Mansion"
+msgstr "mischeevous mansion"
+
+#. initStoryMaps
+msgid "The Final Gauntlet"
+msgstr "le final gauntlet"
+
+#. initStoryWorldData
+msgid "Green Grasslands"
+msgstr "catnip grasslandz"
+
+#. initStoryWorldData
+msgid "New Maker City"
+msgstr "new feline city"
+
+#. initStoryWorldData
+msgid "Frosty Fortress"
+msgstr "frosty fortress"
+
+#. initStoryWorldData
+msgid "The Great Beyond"
+msgstr "le great beyond"
+
+#. initStoryWorldData
+msgid "Forgotten Foundry"
+msgstr "forgotten foundry"
+
+#. initStoryWorldData
+msgid "Ghastly Gardens"
+msgstr "spooky gardenz"
+
+#. initStoryWorldData
+msgid "Scribble's Domain"
+msgstr "scriblo domain"
+
+#. initUnlocks
+msgid "A Walk in the Park"
+msgstr "a walk in le park"
+
+#. initUnlocks
+msgid "Clear the tutorial"
+msgstr "clear le tutorial"
+
+#. initUnlocks
+msgid "A Morning Stroll"
+msgstr "a mornin stroll"
+
+#. initUnlocks
+msgid "Clear World 1 of the campaign"
+msgstr "clear world 1 of the campaign"
+
+#. initUnlocks
+msgid "Urban Explorer"
+msgstr "urban explora"
+
+#. initUnlocks
+msgid "Clear World 2 of the campaign"
+msgstr "clear world 2 of le campaign"
+
+#. initUnlocks
+msgid "Knight in Snowy Armor"
+msgstr "knite in snowy amor"
+
+#. initUnlocks
+msgid "Clear World 3 of the campaign"
+msgstr "clear world 3 of le campaign"
+
+#. initUnlocks
+msgid "Space Cadet"
+msgstr "space kitty"
+
+#. initUnlocks
+msgid "Clear World 4 of the campaign"
+msgstr "clear world 4 of le campaign"
+
+#. initUnlocks
+msgid "Sandy Shoes"
+msgstr "shoe named sandy"
+
+#. initUnlocks
+msgid "Clear World 5 of the campaign"
+msgstr "clear world 5 of le campaign"
+
+#. initUnlocks
+msgid "Ghost Buster"
+msgstr "ghost busta"
+
+#. initUnlocks
+msgid "Clear World 6 of the campaign"
+msgstr "clear world 6 of le campaign"
+
+#. initUnlocks
+msgid "Campaign Clear"
+msgstr "campaign clear"
+
+#. initUnlocks
+msgid "Clear the campaign"
+msgstr "clear le campaign"
+
+#. initUnlocks
+msgid "Grass Master"
+msgstr "grass masta"
+
+#. initUnlocks
+msgid "Collect all gems in World 1 of the campaign"
+msgstr "collect all shiniez in world 1 of le campaign"
+
+#. initUnlocks
+msgid "Proper New Yorker"
+msgstr "peoper new meowker"
+
+#. initUnlocks
+msgid "Collect all gems in World 2 of the campaign"
+msgstr "collect all shiniez in world 2 of le campaign"
+
+#. initUnlocks
+msgid "Santa Claus is in Another Castle"
+msgstr "santa claws is in another castle"
+
+#. initUnlocks
+msgid "Collect all gems in World 3 of the campaign"
+msgstr "collect all shiniez in world 3 of le campaign"
+
+#. initUnlocks
+msgid "Above And Beyond"
+msgstr "above and beyond"
+
+#. initUnlocks
+msgid "Collect all gems in World 4 of the campaign"
+msgstr "collect all shiniez in world 4 of le campaign"
+
+#. initUnlocks
+msgid "Crusher Achaeologist"
+msgstr "crusha achameowlogist"
+
+#. initUnlocks
+msgid "Collect all gems in World 5 of the campaign"
+msgstr "collect all shiniez in world 5 of le campaign"
+
+#. initUnlocks
+msgid "Couch Clear"
+msgstr "eepy sleepy"
+
+#. initUnlocks
+msgid "Collect all gems in World 6 of the campaign"
+msgstr "collect all shiniez in world 6 o le campaign"
+
+#. initUnlocks
+msgid "Campaign Completionist"
+msgstr "campaign completionist"
+
+#. initUnlocks
+msgid "Collect all gems in the entire campaign"
+msgstr "collect all shiniez in le entire campaign"
+
+#. initUnlocks
+msgid "Outscribbled"
+msgstr "outscribled"
+
+#. initUnlocks
+msgid "Clear the final boss of the campaign without losing any lives or restarting"
+msgstr "clear le final boss of le campaign without losing any livz or restartin"
+
+#. initUnlocks
+msgid "Upload your first level"
+msgstr "upload yor first level :3"
+
+#. initUnlocks
+msgid "Positive Feedback"
+msgstr "positiv feedbac"
+
+#. initUnlocks
+msgid "Receive 5 likes on your level"
+msgstr "receiv 5 likes on your lvl"
+
+#. initUnlocks
+msgid "Picasso"
+msgstr "silly artist"
+
+#. initUnlocks
+msgid "Place every object in the editor"
+msgstr "place every object in le editor"
+
+#. initUnlocks
+msgid "Cannon Cannon"
+msgstr "cannon cannon"
+
+#. initUnlocks
+msgid "Shoot a cannon out of a cannon in the editor"
+msgstr "shoot a cannon out of a cannon in le editor"
+
+#. initUnlocks
+msgid "Gamer"
+msgstr "gamer"
+
+#. initUnlocks
+msgid "Clear 5 levels"
+msgstr "clear 5 levelz"
+
+#. initUnlocks
+msgid "Epic Gamer"
+msgstr "epic gamer"
+
+#. initUnlocks
+msgid "Clear 25 levels"
+msgstr "clear 25 levelz"
+
+#. initUnlocks
+msgid "Clear Collector"
+msgstr "AMAZING gamer!!"
+
+#. initUnlocks
+msgid "Clear 200 levels"
+msgstr "clear 200 levelz"
+
+#. initUnlocks
+msgid "Press R To Restart"
+msgstr "more than 9 lives"
+
+#. initUnlocks
+msgid "Die 5000 times"
+msgstr "die 5000 timez"
+
+#. initUnlocks
+msgid "Ooh, Shiny!"
+msgstr "ooh shiny *w*"
+
+#. initUnlocks
+msgid "Collect 5 gems"
+msgstr "collect 5 shiniez"
+
+#. initUnlocks
+msgid "My Precious"
+msgstr "ma precious,,"
+
+#. initUnlocks
+msgid "Collect 25 gems"
+msgstr "collect 25 shiniez"
+
+#. initUnlocks
+msgid "Gem Aficionado"
+msgstr "le shiny keepa"
+
+#. initUnlocks
+msgid "Collect 100 gems"
+msgstr "collect 100 shiniez"
+
+#. initUnlocks
+msgid "World Tourist"
+msgstr "lots of catz"
+
+#. initUnlocks
+msgid "Clear levels by makers from 20 different countries"
+msgstr "clear levelz by kittenz from 20 different speciez"
+
+#. initUnlocks
+msgid "Full Course"
+msgstr "tasty snack"
+
+#. initUnlocks
+msgid "Clear an entire Weekly Mix playlist"
+msgstr "clear an entire meow mix pleylist"
+
+#. initUnlocks
+msgid "World Record!"
+msgstr "kitty race winner"
+
+#. initUnlocks
+msgid "Get the fastest clear time on a level"
+msgstr "get le fastest clear time on a level"
+
+#. initUnlocks
+msgid "100% World Record!"
+msgstr "a-grade speedrunner"
+
+#. initUnlocks
+msgid "Get the fastest full clear time on a level"
+msgstr "get le fastest full clear taim on a lvl"
+
+#. initUnlocks
+msgid "Early Bird"
+msgstr "early kitty"
+
+#. initUnlocks
+msgid "Be the first person to clear a level"
+msgstr "be the first cat to clear a lvl"
+
+#. initUnlocks
+msgid "Impressive Feat"
+msgstr "dedicated kitty"
+
+#. initUnlocks
+msgid "Clear a level with a clear rate of less than 15% and at least 5 ratings"
+msgstr "clear a lvl with clear rate below 15% and haz at least 5 ratingz"
+
+#. initUnlocks
+msgid "There's No Way"
+msgstr "determined kitty"
+
+#. initUnlocks
+msgid "Clear a level with a clear rate of less than 5% and at least 5 ratings"
+msgstr "clear a lvl with a clear rate below 5% and haz at least 5 ratingz"
+
+#. initUnlocks
+msgid "Scribbler"
+msgstr "scriblo"
+
+#. initUnlocks
+msgid "Beat Mr. Scribble's Quest on any difficulty"
+msgstr "beat mr scriblo quest on any difficulty"
+
+#. initUnlocks
+msgid "Expert Scribbler"
+msgstr "expert scriblo"
+
+#. initUnlocks
+msgid "Beat Mr. Scribble's Quest on Impossible difficulty"
+msgstr "beat mr scriblo quest on imposbl difficulty"
+
+#. initUnlocks
+msgid "Deathless Scribbler"
+msgstr "deathless scriblo"
+
+#. initUnlocks
+msgid "Beat Mr. Scribble's Quest without dying on any difficulty"
+msgstr "beat mr. scriblo quest without dethz on any dificulti"
+
+#. initUnlocks
+msgid "Explore 10 levels in Explorer"
+msgstr "explor 10 levelz in explorer"
+
+#. initUnlocks
+msgid "Spelunker"
+msgstr "spelunka"
+
+#. initUnlocks
+msgid "Explore 50 levels in Explorer"
+msgstr "explore 50 levelz in explora"
+
+#. initUnlocks
+msgid "Fearless Adventurer"
+msgstr "adventure time"
+
+#. initUnlocks
+msgid "Explore 200 levels in Explorer"
+msgstr "explore 200 levelz in explora"
+
+#. initUnlocks
+msgid "Survivor"
+msgstr "experimenter kitty"
+
+#. initUnlocks
+msgid "Clear 100 levels in Endurance on any difficulty"
+msgstr "clear 100 levelz in endurance on any dificulti"
+
+#. initUnlocks
+msgid "Against All Odds"
+msgstr "masocore enjoyer"
+
+#. initUnlocks
+msgid "Clear 10 levels in Endurance on Impossible difficulty"
+msgstr "clear 10 levelz in endurance on imposibl dificulti"
+
+#. initUnlocks
+msgid "Jackpot"
+msgstr "jackpot"
+
+#. initUnlocks
+msgid "Get a 100 level streak in Roulette"
+msgstr "get 100 level streek in roulete"
+
+#. initUnlocks
+msgid "Dice Whisperer"
+msgstr "grand jackpot!!"
+
+#. initUnlocks
+msgid "Get a 100 level streak in Hardcore Roulette"
+msgstr "get 100 level streak in hardcore roulette"
+
+#. initUnlocks
+msgid "Custom Order"
+msgstr "custom order"
+
+#. initUnlocks
+msgid "Clear a Custom challenge"
+msgstr "clear a custom challenge"
+
+#. initUnlocks
+msgid "The Maker Makers"
+msgstr "le cat godz"
+
+#. initUnlocks
+msgid "Watch the entire game credits without touching the scroll bar"
+msgstr "watch the entire creditz without touchin the scroll bar :P"
+
+#. scrLoadPlayerStateFromFile
+msgid "Can't load previous save data.#Couldn't load data."
+msgstr "cant load previous save data#couldnt load data :p"
+
+#. scrLoadPlayerStateFromFile
+msgid "Can't load previous save data.#The level changed since last play."
+msgstr "cant load previouz save data#level changed sinc last play :p"
+
+#. scrLoadPlayerStateFromFile
+msgid "Can't load previous save data.#The data is invalid."
+msgstr "cant load previous save data#data is invalid :<"
+
+#. sfm_deserialize_map_step, loadSubmaps
+msgid "level was made with a newer version of the game"
+msgstr "level made with newer version of le game"
+
+#. sfm_deserialize_map_step
+msgid "invalid tileset"
+msgstr "invalid tileset"
+
+#. sfm_deserialize_map_step
+msgid "invalid background"
+msgstr "invalid backgraund"
+
+#. sfm_deserialize_map_step
+msgid "invalid spikes"
+msgstr "invalid spikez"
+
+#. sfm_deserialize_map_step
+msgid "invalid colors"
+msgstr "invalid colorz"
+
+#. sfm_deserialize_map_step
+msgid "invalid scroll mode"
+msgstr "invalid scroll mode"
+
+#. sfm_deserialize_map_step
+msgid "invalid music"
+msgstr "invalid musik"
+
+#. sfm_deserialize_map_step
+msgid "missing level settings"
+msgstr "missing level setingz"
+
+#. sfm_deserialize_map_step
+msgid "invalid room size"
+msgstr "invalid room saiz"
+
+#. sfm_deserialize_map_step
+msgid "incorrect number of objects"
+msgstr "incorrec numba of objectz"
+
+#. sfm_deserialize_map_abort
+msgid "error: invalid level, %1"
+msgstr "error! invalid level, %1"
+
+#. sfm_create_object_from_xml
+msgid "invalid object id: %1"
+msgstr "invalid object id: %1"
+
+#. sfm_create_object_from_xml
+msgid "invalid vine object"
+msgstr "invalid vine object :p"
+
+#. sfm_create_object_from_xml
+msgid "invalid sprite angle: %1"
+msgstr "invalid sprite angle: %1"
+
+#. sfm_create_object_from_xml
+msgid "invalid slot object id in %1"
+msgstr "invalid slot object id in %1"
+
+#. sfm_create_object_from_xml
+msgid "invalid block slot object id in %1"
+msgstr "invalid bloc slot objec id in %1"
+
+#. sfm_read_xml_param
+msgid "invalid param %1"
+msgstr "invalid param %1"
+
+#. loadSubmaps
+msgid "read error"
+msgstr "sorry i cant read :p"
+
+#. loadSubmaps
+msgid "invalid last_submap"
+msgstr "invalid last_submap"
+
+#. loadSubmaps
+msgid "invalid map attribute"
+msgstr "invalid map attribut"
+
+#. loadSubmaps
+msgid "invalid submap ID"
+msgstr "invalid submap id"
+
+#. loadSubmaps
+msgid "invalid submap"
+msgstr "invalid submap"
+
+#. loadSubmaps
+msgid "wrong number of submaps"
+msgstr "wrong numba of submapz"
+
+#. loadSubmaps
+msgid "too many submaps"
+msgstr "too many submapz"
+
+#. loadSubmaps
+msgid "missing attribute"
+msgstr "missing attribut"
+
+#. loadSubmaps
+msgid "invalid screenshot submap"
+msgstr "invalid screenshot submap"
+
+#. addNewSubmap
+msgid "Can't add room. Only up to %1 rooms allowed"
+msgstr "cant add room, max %1 roomz allowd"
+
+#. importSubmap
+msgid "Failed to import level.#Data is invalid"
+msgstr "faild to import lvl :<#data is invalid"
+
+#. confirmMapSizeChange
+msgid "Warning: Using too many objects or events may#result in the game lagging."
+msgstr "warning!! using too many objectz or eventz#may make game lag"
+
+#. sfm_object_friendly_name
+msgid "Spike"
+msgstr "spaik"
+
+#. sfm_object_friendly_name
+msgid "Mini Spike"
+msgstr "mini spaik"
+
+#. sfm_object_friendly_name
+msgid "Save Point"
+msgstr "saev point"
+
+#. sfm_object_friendly_name
+msgid "Start Flag"
+msgstr "start flag"
+
+#. sfm_object_friendly_name
+msgid "Finish Warp"
+msgstr "finish worp"
+
+#. sfm_object_friendly_name
+msgid "Spinner"
+msgstr "spinna"
+
+#. sfm_object_friendly_name
+msgid "Player Trigger"
+msgstr "kitten trigga"
+
+#. sfm_object_friendly_name
+msgid "Water (Non-refreshing)"
+msgstr "water (nonrefreshin)"
+
+#. sfm_object_friendly_name
+msgid "Water (Refreshing)"
+msgstr "water (refreshin)"
+
+#. sfm_object_friendly_name
+msgid "Platform"
+msgstr "platfor"
+
+#. sfm_object_friendly_name
+msgid "Jump Refresher"
+msgstr "jump refresha"
+
+#. sfm_object_friendly_name
+msgid "Mini Block"
+msgstr "mini bloc"
+
+#. sfm_object_friendly_name
+msgid "Conveyor"
+msgstr "conveyoir"
+
+#. sfm_object_friendly_name
+msgid "Gravity Up"
+msgstr "gravity up"
+
+#. sfm_object_friendly_name
+msgid "Gravity Down"
+msgstr "gravity down"
+
+#. sfm_object_friendly_name
+msgid "Cannon"
+msgstr "cannon"
+
+#. sfm_object_friendly_name
+msgid "Normal Vine"
+msgstr "normal vine"
+
+#. sfm_object_friendly_name
+msgid "Ice Vine"
+msgstr "ice vine"
+
+#. sfm_object_friendly_name
+msgid "Gravity Flipper Vine"
+msgstr "gravity floppa vine"
+
+#. sfm_object_friendly_name
+msgid "Sticky Vine"
+msgstr "honey vine"
+
+#. sfm_object_friendly_name
+msgid "Low Gravity Vine"
+msgstr "low gravity vine"
+
+#. sfm_object_friendly_name
+msgid "Pink Twin Vine"
+msgstr "pink twin vine"
+
+#. sfm_object_friendly_name
+msgid "Cyan Twin Vine"
+msgstr "cyan twin vine"
+
+#. sfm_object_friendly_name
+msgid "Speed Vine"
+msgstr "speedy vine"
+
+#. sfm_object_friendly_name
+msgid "Conveyor Vine"
+msgstr "conveyor vine"
+
+#. sfm_object_friendly_name
+msgid "Telekid Activate"
+msgstr "telekitty activate"
+
+#. sfm_object_friendly_name
+msgid "Telekid Deactivate"
+msgstr "telekitty deactivat"
+
+#. sfm_object_friendly_name
+msgid "Single Jump Star"
+msgstr "single jump star"
+
+#. sfm_object_friendly_name
+msgid "Double Jump Star"
+msgstr "doubla jump star"
+
+#. sfm_object_friendly_name
+msgid "Triple Jump Star"
+msgstr "tripla jump star"
+
+#. sfm_object_friendly_name
+msgid "Low Speed Field"
+msgstr "low speed field"
+
+#. sfm_object_friendly_name
+msgid "High Speed Field"
+msgstr "high speed field"
+
+#. sfm_object_friendly_name
+msgid "Low Gravity Field"
+msgstr "low gravity field"
+
+#. sfm_object_friendly_name
+msgid "High Gravity Field"
+msgstr "high gravity field"
+
+#. sfm_object_friendly_name
+msgid "Acceleration Field"
+msgstr "aceleratin field"
+
+#. sfm_object_friendly_name
+msgid "Stasis Field"
+msgstr "stasis field"
+
+#. sfm_object_friendly_name
+msgid "One-Way Wall"
+msgstr "one way wall"
+
+#. sfm_object_friendly_name
+msgid "Teleport Refresher"
+msgstr "teleport refresha"
+
+#. sfm_object_friendly_name
+msgid "Teleport Activate"
+msgstr "teleport activate"
+
+#. sfm_object_friendly_name
+msgid "Teleport Deactivate"
+msgstr "teleport deactivate"
+
+#. sfm_object_friendly_name
+msgid "Spring"
+msgstr "spring"
+
+#. sfm_object_friendly_name
+msgid "Arrow Indicator"
+msgstr "arrow indicator"
+
+#. sfm_object_friendly_name
+msgid "Gun/Sword Indicator"
+msgstr "gun/sword indicato"
+
+#. sfm_object_friendly_name
+msgid "Coin"
+msgstr "coin"
+
+#. sfm_object_friendly_name
+msgid "Coin Block"
+msgstr "coin bloc"
+
+#. sfm_object_friendly_name
+msgid "Shuriken"
+msgstr "shuriken"
+
+#. sfm_object_friendly_name
+msgid "Sawblade"
+msgstr "sawblad"
+
+#. sfm_object_friendly_name
+msgid "Button"
+msgstr "button"
+
+#. sfm_object_friendly_name
+msgid "Background Tile"
+msgstr "backgraund tile"
+
+#. sfm_object_friendly_name
+msgid "Fake Block"
+msgstr "fake bloc"
+
+#. sfm_object_friendly_name
+msgid "Cannon Ball"
+msgstr "cannon ball"
+
+#. sfm_object_friendly_name
+msgid "Bullet Reflector"
+msgstr "bullet reflector"
+
+#. sfm_object_friendly_name
+msgid "Laser"
+msgstr "laser"
+
+#. sfm_object_friendly_name
+msgid "Forbidden Tree"
+msgstr "forbidden tree"
+
+#. sfm_object_friendly_name
+msgid "Caution Sign"
+msgstr "caution sign"
+
+#. sfm_object_friendly_name
+msgid "Fancy Text"
+msgstr "fancy text"
+
+#. sfm_object_friendly_name
+msgid "Effect Trigger"
+msgstr "efect trigga"
+
+#. sfm_object_friendly_name
+msgid "Effect Remover"
+msgstr "effect remova"
+
+#. sfm_object_friendly_name
+msgid "Object Activator"
+msgstr "object activator"
+
+#. sfm_object_friendly_name
+msgid "Pat's Ball"
+msgstr "kitty ball toy"
+
+#. sfm_object_friendly_name
+msgid "Sword Activate"
+msgstr "sword activate"
+
+#. sfm_object_friendly_name
+msgid "Sword Deactivate"
+msgstr "sword deactivate"
+
+#. sfm_object_friendly_name
+msgid "Teleporter Entrance"
+msgstr "teleporter entrance"
+
+#. sfm_object_friendly_name
+msgid "Teleporter Exit"
+msgstr "teleporter exit"
+
+#. sfm_object_friendly_name
+msgid "Killer Block"
+msgstr "killa block"
+
+#. sfm_object_friendly_name
+msgid "Camera Buddy"
+msgstr "camera buddy"
+
+#. sfm_object_friendly_name
+msgid "Saber"
+msgstr "saber"
+
+#. sfm_object_friendly_name
+msgid "Parachute"
+msgstr "parachute"
+
+#. sfm_object_friendly_name
+msgid "Parachute Remover"
+msgstr "parachute remova"
+
+#. sfm_object_friendly_name
+msgid "Shield"
+msgstr "shield"
+
+#. sfm_object_friendly_name
+msgid "Shield Remover"
+msgstr "shield betrayer"
+
+#. sfm_object_friendly_name
+msgid "Push Block"
+msgstr "push block"
+
+#. sfm_object_friendly_name
+msgid "Walker Jr"
+msgstr "walker jr"
+
+#. sfm_object_friendly_name
+msgid "Beam"
+msgstr "beam"
+
+#. sfm_object_friendly_name
+msgid "Big Kid"
+msgstr "big cat"
+
+#. sfm_object_friendly_name
+msgid "Normal Kid"
+msgstr "normal kitty"
+
+#. sfm_object_friendly_name
+msgid "Small Kid"
+msgstr "tiny kitteh"
+
+#. sfm_object_friendly_name
+msgid "Blue Coin"
+msgstr "blue coin"
+
+#. sfm_object_friendly_name
+msgid "Blue Coin Block"
+msgstr "blue coin block"
+
+#. sfm_object_friendly_name
+msgid "Light Post"
+msgstr "light post"
+
+#. sfm_object_friendly_name
+msgid "Crusher Statue"
+msgstr "crusher statue"
+
+#. sfm_object_friendly_name
+msgid "Mushroom"
+msgstr "mushroom"
+
+#. sfm_object_friendly_name
+msgid "Sand"
+msgstr "sand"
+
+#. sfm_object_friendly_name
+msgid "Heart"
+msgstr "heart"
+
+#. sfm_object_friendly_name
+msgid "Flowers"
+msgstr "flowahs"
+
+#. sfm_object_friendly_name
+msgid "Bush"
+msgstr "bush"
+
+#. sfm_object_friendly_name
+msgid "Grass"
+msgstr "grass"
+
+#. sfm_object_friendly_name
+msgid "Rock"
+msgstr "rock"
+
+#. sfm_object_friendly_name
+msgid "Flower Plant"
+msgstr "flowa plamt"
+
+#. sfm_object_friendly_name
+msgid "Bamboo"
+msgstr "bamboo"
+
+#. sfm_object_friendly_name
+msgid "Cactus"
+msgstr "cactus"
+
+#. sfm_object_friendly_name
+msgid "Bulrush"
+msgstr "bulrush"
+
+#. sfm_object_friendly_name
+msgid "Dune Rock"
+msgstr "dune rock"
+
+#. sfm_object_friendly_name
+msgid "Pumpkin"
+msgstr "pumkin"
+
+#. sfm_object_friendly_name
+msgid "Noodle Grass"
+msgstr "noodle grass"
+
+#. sfm_object_friendly_name
+msgid "Blue Plant"
+msgstr "blue plant"
+
+#. sfm_object_friendly_name
+msgid "Purple Plant"
+msgstr "purple plant"
+
+#. sfm_object_friendly_name
+msgid "Red Plant"
+msgstr "red plant"
+
+#. sfm_object_friendly_name
+msgid "Green Plant"
+msgstr "catnip"
+
+#. sfm_object_friendly_name
+msgid "Tombstone"
+msgstr "tombstone"
+
+#. sfm_object_friendly_name
+msgid "Snow"
+msgstr "snow"
+
+#. sfm_object_friendly_name
+msgid "Glacier"
+msgstr "glacier"
+
+#. sfm_object_friendly_name
+msgid "Moon Rock"
+msgstr "moon rock"
+
+#. sfm_object_friendly_name
+msgid "Moon Pillar"
+msgstr "moon pilla"
+
+#. sfm_object_friendly_name
+msgid "Snowman"
+msgstr "snowman"
+
+#. sfm_object_friendly_name
+msgid "Knight Armor"
+msgstr "knite armor"
+
+#. sfm_object_friendly_name
+msgid "Candy Cane"
+msgstr "candy cane"
+
+#. sfm_object_friendly_name
+msgid "Googly Eye"
+msgstr "googly eye"
+
+#. sfm_object_friendly_name
+msgid "Stop Sign"
+msgstr "stop sign"
+
+#. sfm_object_friendly_name
+msgid "Sparkle"
+msgstr "sparkle"
+
+#. sfm_object_friendly_name
+msgid "Torch"
+msgstr "torch"
+
+#. sfm_object_friendly_name
+msgid "Campfire"
+msgstr "campfire"
+
+#. sfm_object_friendly_name
+msgid "Hooded Statue"
+msgstr "hooded statue"
+
+#. sfm_object_friendly_name
+msgid "Couch"
+msgstr "couch"
+
+#. sfm_object_friendly_name
+msgid "Table"
+msgstr "table"
+
+#. sfm_object_friendly_name
+msgid "Arrow Sign"
+msgstr "arrow sign"
+
+#. sfm_object_friendly_name
+msgid "Fence"
+msgstr "fence"
+
+#. sfm_object_friendly_name
+msgid "Candle"
+msgstr "candle"
+
+#. sfm_object_friendly_name
+msgid "Barrage Bullet"
+msgstr "bullet"
+
+#. sfm_object_friendly_name
+msgid "Bubble Activate"
+msgstr "bubblo activate"
+
+#. sfm_object_friendly_name
+msgid "Bubble Deactivate"
+msgstr "bubble deactivat"
+
+#. sfm_object_friendly_name
+msgid "Light"
+msgstr "light"
+
+#. sfm_object_friendly_name
+msgid "Target"
+msgstr "target"
+
+#. sfm_object_friendly_name
+msgid "Jump Phantom"
+msgstr "jump phantom"
+
+#. sfm_object_friendly_name
+msgid "Burst Block"
+msgstr "burst bloc"
+
+#. sfm_object_friendly_name
+msgid "Gem"
+msgstr "shiny"
+
+#. sfm_object_friendly_name
+msgid "Text Sign"
+msgstr "text sign"
+
+#. sfm_object_friendly_name
+msgid "Room Warp"
+msgstr "room worp"
+
+#. sfm_object_friendly_name
+msgid "Room Start"
+msgstr "room start"
+
+#. sfm_object_friendly_name
+msgid "Keycard"
+msgstr "keycard"
+
+#. sfm_object_friendly_name
+msgid "Keycard Remover"
+msgstr "keycard remova"
+
+#. sfm_object_friendly_name
+msgid "Keycard Block"
+msgstr "keycard block"
+
+#. sfm_object_friendly_name
+msgid "Particle Emitter"
+msgstr "particle emitta"
+
+#. sfm_object_limit_reached_error
+msgid "Only 3 Gems can be placed in a room."
+msgstr "only 3 shiniez per room plz"
+
+#. scrEditorSave
+msgid "Please name your level before saving it."
+msgstr "plz name yor lvl before saving okty"
+
+#. scrEditorSave
+msgid "That name is reserved."
+msgstr "That name is reserved."
+
+#. scrEditorSave
+msgid "Another level file already exists with that name."
+msgstr "anotha lvl file already has that name"
+
+#. addAprilFoolsJumpToFolder
+msgid "Corner"
+msgstr "corner"
+
+#. addAprilFoolsJumpToFolder
+msgid "Diagonal / Plane"
+msgstr "diagnotal / plane"
+
+#. addAprilFoolsJumpToFolder
+msgid "Gate"
+msgstr "gate"
+
+#. addAprilFoolsJumpToFolder
+msgid "9"
+msgstr "9"
+
+#. getObjectDetailsName
+msgid "(Slotted)"
+msgstr "(slotted)"
+
+#. doObjCopy
+msgid "You can't copy objects from downloaded levels."
+msgstr "cant copy objectz from downloaded lvls sorry"
+
+#. doObjPaste
+msgid "Pasted from clipboard."
+msgstr "pasted from clipboard :3"
+
+#. sfm_check_uploadable_submap
+msgid "The start room must have a start flag."
+msgstr "start room haz to hav start flag"
+
+#. sfm_check_uploadable_submap
+msgid "The level must have a finish warp."
+msgstr "lvl must has finish warp"
+
+#. sfm_check_uploadable_submap
+msgid "The following sign contains a bad word:"
+msgstr "following sign haz bad word:"
+
+#. init_detail_data
+msgid "On Create"
+msgstr "on create"
+
+#. init_detail_data
+msgid "On Timer"
+msgstr "on timer"
+
+#. init_detail_data
+msgid "On Player Jump"
+msgstr "on kitty jump"
+
+#. init_detail_data
+msgid "On Player Shoot"
+msgstr "on kitty shoot"
+
+#. init_detail_data
+msgid "On Vine Jump"
+msgstr "on vine jump"
+
+#. init_detail_data
+msgid "On Cannon Ball Bounce"
+msgstr "on cannon ball bounc"
+
+#. init_detail_data
+msgid "When Shot"
+msgstr "when shot"
+
+#. init_detail_data
+msgid "On Trigger"
+msgstr "on trigger"
+
+#. init_detail_data
+msgid "On Metronome Tick"
+msgstr "on metronome tick"
+
+#. init_detail_data
+msgid "On Coins Collected"
+msgstr "on coins collectd"
+
+#. init_detail_data
+msgid "On Shield Loss"
+msgstr "on shield loss"
+
+#. init_detail_data
+msgid "Touch Activator"
+msgstr "touch activator"
+
+#. init_detail_data
+msgid "Touched Explosion"
+msgstr "touched explozion"
+
+#. init_detail_data
+msgid "Sprung"
+msgstr "sprung"
+
+#. init_detail_data
+msgid "When Hit by Sword"
+msgstr "when hit by sword"
+
+#. init_detail_data
+msgid "Left/Right Keys"
+msgstr "left/rite keyz"
+
+#. init_detail_data
+msgid "On Object Collision"
+msgstr "on object collision"
+
+#. init_detail_data
+msgid "On a Coin Collected"
+msgstr "on a coin collectd"
+
+#. init_detail_data
+msgid "On Blue Coins Collected"
+msgstr "on blue coinz collectd"
+
+#. init_detail_data
+msgid "Up/Down Keys"
+msgstr "up/down keyz"
+
+#. init_detail_data
+msgid "On Reached Health"
+msgstr "on reachd health"
+
+#. init_detail_data
+msgid "When Destroyed"
+msgstr "when destroyd"
+
+#. init_detail_data
+msgid "On Keycard Grab/Lost"
+msgstr "on keykard grab/lost"
+
+#. init_detail_data
+msgid "Start Moving"
+msgstr "start moving"
+
+#. init_detail_data
+msgid "Set Timer"
+msgstr "set timer"
+
+#. init_detail_data
+msgid "Destroy"
+msgstr "destroy"
+
+#. init_detail_data
+msgid "Play Sound"
+msgstr "play sound"
+
+#. init_detail_data
+msgid "Move Set Distance"
+msgstr "move set distans"
+
+#. init_detail_data
+msgid "Stop Moving"
+msgstr "stop movin"
+
+#. init_detail_data
+msgid "Toggle Collisions"
+msgstr "toggl collisionz"
+
+#. init_detail_data
+msgid "Set Path Color"
+msgstr "set path color"
+
+#. init_detail_data
+msgid "Follow Path"
+msgstr "follow paf"
+
+#. init_detail_data
+msgid "Fire Cannon"
+msgstr "fire cannon"
+
+#. init_detail_data
+msgid "Fire Random Slot"
+msgstr "fire random slot"
+
+#. init_detail_data
+msgid "Activate Trigger"
+msgstr "activate trigga"
+
+#. init_detail_data
+msgid "Set Rotate Speed"
+msgstr "set rotate speed"
+
+#. init_detail_data
+msgid "Set Conveyor Speed"
+msgstr "set conveyor speed"
+
+#. init_detail_data
+msgid "Set Acceleration"
+msgstr "set acceletashyn"
+
+#. init_detail_data
+msgid "Stop Timer"
+msgstr "stop timer"
+
+#. init_detail_data
+msgid "Rotate 90 Degrees"
+msgstr "roatate 90 degreez"
+
+#. init_detail_data
+msgid "Camera follow"
+msgstr "camera follow"
+
+#. init_detail_data
+msgid "Set Music Pitch"
+msgstr "set music pitch"
+
+#. init_detail_data
+msgid "Set Music Position"
+msgstr "set mousic position"
+
+#. init_detail_data
+msgid "Play Music"
+msgstr "play music"
+
+#. init_detail_data
+msgid "Fade Music"
+msgstr "fade music"
+
+#. init_detail_data
+msgid "Follow Player Axis"
+msgstr "follow player axis"
+
+#. init_detail_data
+msgid "Radius Shift Speed"
+msgstr "radius shift speed"
+
+#. init_detail_data
+msgid "Move to Position"
+msgstr "move to posishon"
+
+#. init_detail_data
+msgid "Move to Player"
+msgstr "move to kitten"
+
+#. init_detail_data
+msgid "Set Speed Only"
+msgstr "set speed only"
+
+#. init_detail_data
+msgid "Set Angle Only"
+msgstr "set angle onli"
+
+#. init_detail_data
+msgid "Set Cherry Color"
+msgstr "set cherri color"
+
+#. init_detail_data
+msgid "Set Barrage Bullet Color"
+msgstr "set bullet color"
+
+#. init_detail_data
+msgid "Toggle Cannon Tracking"
+msgstr "toggle cannon trackin"
+
+#. init_detail_data
+msgid "Set Walker Walk Speed"
+msgstr "set walker walk speed"
+
+#. init_detail_data
+msgid "Activate Effect"
+msgstr "activate effect"
+
+#. init_detail_data
+msgid "Remove Effects"
+msgstr "remove effectz"
+
+#. init_detail_data
+msgid "Set Rotation"
+msgstr "set rotation"
+
+#. init_detail_data
+msgid "Set Random Angle"
+msgstr "set random angle"
+
+#. init_detail_data
+msgid "Set Random Speed"
+msgstr "set random speed"
+
+#. init_detail_data
+msgid "Set Random Rotation"
+msgstr "set random rotashion"
+
+#. init_detail_data
+msgid "Toggle Bounce"
+msgstr "toggle bounce"
+
+#. init_detail_data
+msgid "Activate Burst Block"
+msgstr "activat burst bloc"
+
+#. init_detail_data
+msgid "Toggle Sign Text"
+msgstr "toggle sign text"
+
+#. init_detail_data
+msgid "Toggle Particle Emitter"
+msgstr "toggle particle emitta"
+
+#. init_detail_data
+msgid "Burst Particles"
+msgstr "burst particlez"
+
+#. init_detail_data
+msgid "Damage Self"
+msgstr "damage self"
+
+#. init_detail_data
+msgid "scale"
+msgstr "scale"
+
+#. init_detail_data
+msgid "layer"
+msgstr "laya"
+
+#. init_detail_data
+msgid "highest"
+msgstr "highest"
+
+#. init_detail_data
+msgid "higher"
+msgstr "higha"
+
+#. init_detail_data
+msgid "middle"
+msgstr "mid"
+
+#. init_detail_data
+msgid "lower"
+msgstr "lowa"
+
+#. init_detail_data
+msgid "lowest"
+msgstr "lowest"
+
+#. init_detail_data
+msgid "blend color"
+msgstr "blend color"
+
+#. init_detail_data
+msgid "coin count"
+msgstr "coin count"
+
+#. init_detail_data
+msgid "spring force"
+msgstr "sprint force"
+
+#. init_detail_data
+msgid "weak"
+msgstr "weak"
+
+#. init_detail_data
+msgid "moderate"
+msgstr "moderat"
+
+#. init_detail_data
+msgid "strong"
+msgstr "strOng"
+
+#. init_detail_data
+msgid "frames"
+msgstr "framez"
+
+#. init_detail_data
+msgid "offset"
+msgstr "offset"
+
+#. init_detail_data
+msgid "pitch"
+msgstr "pitch"
+
+#. init_detail_data
+msgid "volume"
+msgstr "volume"
+
+#. init_detail_data
+msgid "music"
+msgstr "musik"
+
+#. init_detail_data
+msgid "position"
+msgstr "posishyn"
+
+#. init_detail_data
+msgid "fade duration"
+msgstr "fade duration"
+
+#. init_detail_data
+msgid "persistent"
+msgstr "persistent"
+
+#. init_detail_data
+msgid "trigger number"
+msgstr "trigger numba"
+
+#. init_detail_data
+msgid "activator number"
+msgstr "activata numba"
+
+#. init_detail_data
+msgid "teleporter number"
+msgstr "teleporta numba"
+
+#. init_detail_data
+msgid "toggle type"
+msgstr "toggle type"
+
+#. init_detail_data
+msgid "off"
+msgstr "off"
+
+#. init_detail_data
+msgid "on"
+msgstr "on"
+
+#. init_detail_data
+msgid "switch"
+msgstr "switch"
+
+#. init_detail_data
+msgid "path color"
+msgstr "path color"
+
+#. init_detail_data
+msgid "red"
+msgstr "red"
+
+#. init_detail_data
+msgid "blue"
+msgstr "blu"
+
+#. init_detail_data
+msgid "green"
+msgstr "greem"
+
+#. init_detail_data
+msgid "none"
+msgstr "none"
+
+#. init_detail_data
+msgid "grav type"
+msgstr "grav type"
+
+#. init_detail_data
+msgid "normal"
+msgstr "normal"
+
+#. init_detail_data
+msgid "inverted"
+msgstr "inverted"
+
+#. init_detail_data
+msgid "sound"
+msgstr "sound"
+
+#. init_detail_data
+msgid "sideways"
+msgstr "sidewayz"
+
+#. init_detail_data
+msgid "edit path"
+msgstr "edit paf"
+
+#. init_detail_data
+msgid "at end"
+msgstr "at end"
+
+#. init_detail_data, startEditingParam
+msgid "stop"
+msgstr "stahp"
+
+#. init_detail_data
+msgid "loop"
+msgstr "loap"
+
+#. init_detail_data
+msgid "reverse"
+msgstr "reverse"
+
+#. init_detail_data
+msgid "destroy"
+msgstr "destroy"
+
+#. init_detail_data
+msgid "direction"
+msgstr "direction"
+
+#. init_detail_data
+msgid "left"
+msgstr "left"
+
+#. init_detail_data
+msgid "right"
+msgstr "rite"
+
+#. init_detail_data
+msgid "neither"
+msgstr "neither"
+
+#. init_detail_data
+msgid "up"
+msgstr "up"
+
+#. init_detail_data
+msgid "down"
+msgstr "down"
+
+#. init_detail_data
+msgid "axis"
+msgstr "axis"
+
+#. init_detail_data
+msgid "follow"
+msgstr "follow"
+
+#. init_detail_data
+msgid "absolute"
+msgstr "absolute"
+
+#. init_detail_data
+msgid "relative"
+msgstr "relativ"
+
+#. init_detail_data
+msgid "additive"
+msgstr "additiv"
+
+#. init_detail_data
+msgid "speed"
+msgstr "speed"
+
+#. init_detail_data
+msgid "object"
+msgstr "object"
+
+#. init_detail_data
+msgid "tileset"
+msgstr "tileset"
+
+#. init_detail_data
+msgid "spike"
+msgstr "spaik"
+
+#. init_detail_data
+msgid "jump type"
+msgstr "jump type"
+
+#. init_detail_data
+msgid "any"
+msgstr "any"
+
+#. init_detail_data
+msgid "single jump"
+msgstr "single jump"
+
+#. init_detail_data
+msgid "double jump"
+msgstr "double jump"
+
+#. init_detail_data
+msgid "go to room"
+msgstr "go to room"
+
+#. init_detail_data
+msgid "entrance number"
+msgstr "entranc numba"
+
+#. init_detail_data
+msgid "trigger once"
+msgstr "trigger once"
+
+#. init_detail_data
+msgid "visible"
+msgstr "visibl"
+
+#. init_detail_data
+msgid "hits to destroy"
+msgstr "hits to destroi"
+
+#. init_detail_data
+msgid "destroy when hit"
+msgstr "destroi when hit"
+
+#. init_detail_data
+msgid "slots"
+msgstr "slotz"
+
+#. init_detail_data
+msgid "radius"
+msgstr "radius"
+
+#. init_detail_data
+msgid "emit particles"
+msgstr "emit particlez"
+
+#. init_detail_data
+msgid "additive blending"
+msgstr "additive blendin"
+
+#. init_detail_data
+msgid "sprite"
+msgstr "sprite"
+
+#. init_detail_data
+msgid "circle"
+msgstr "circle"
+
+#. init_detail_data
+msgid "square"
+msgstr "squar"
+
+#. init_detail_data
+msgid "triangle"
+msgstr "triangl"
+
+#. init_detail_data
+msgid "star"
+msgstr "star"
+
+#. init_detail_data
+msgid "scythe"
+msgstr "scythe"
+
+#. init_detail_data
+msgid "orb"
+msgstr "orb"
+
+#. init_detail_data
+msgid "flare"
+msgstr "flare"
+
+#. init_detail_data
+msgid "whirlpool"
+msgstr "whirlpool"
+
+#. init_detail_data
+msgid "halo"
+msgstr "hello"
+
+#. init_detail_data
+msgid "smoke"
+msgstr "smoke"
+
+#. init_detail_data
+msgid "bubble"
+msgstr "bubblo"
+
+#. init_detail_data
+msgid "leaf"
+msgstr "leef"
+
+#. init_detail_data
+msgid "danger"
+msgstr "danger"
+
+#. init_detail_data
+msgid "skull"
+msgstr "skull"
+
+#. init_detail_data
+msgid "snowflake"
+msgstr "snowflaik"
+
+#. init_detail_data
+msgid "crusher"
+msgstr "crusha"
+
+#. init_detail_data
+msgid "spikey"
+msgstr "spikey"
+
+#. init_detail_data
+msgid "trigger"
+msgstr "trigger"
+
+#. init_detail_data
+msgid "thumbs up"
+msgstr "thumbs up"
+
+#. init_detail_data
+msgid "heart"
+msgstr "heart"
+
+#. init_detail_data
+msgid "emitter shape"
+msgstr "emitter shape"
+
+#. init_detail_data
+msgid "rectangle"
+msgstr "rectangl"
+
+#. init_detail_data
+msgid "ellipse"
+msgstr "ellips"
+
+#. init_detail_data
+msgid "line"
+msgstr "lain"
+
+#. init_detail_data
+msgid "point"
+msgstr "point"
+
+#. init_detail_data
+msgid "color start"
+msgstr "color start"
+
+#. init_detail_data
+msgid "color end"
+msgstr "color end"
+
+#. init_detail_data
+msgid "growth"
+msgstr "growth"
+
+#. init_detail_data
+msgid "spin"
+msgstr "spin"
+
+#. init_detail_data
+msgid "duration"
+msgstr "duration"
+
+#. init_detail_data
+msgid "frequency"
+msgstr "frequency"
+
+#. init_detail_data
+msgid "particle count"
+msgstr "particl count"
+
+#. init_detail_data
+msgid "distance"
+msgstr "distanc"
+
+#. init_detail_data
+msgid "angle"
+msgstr "angle"
+
+#. init_detail_data
+msgid "angle range 1"
+msgstr "angle range 1"
+
+#. init_detail_data
+msgid "angle range 2"
+msgstr "angle range 2"
+
+#. init_detail_data
+msgid "speed range 1"
+msgstr "speed range 1"
+
+#. init_detail_data
+msgid "speed range 2"
+msgstr "speed rang 2"
+
+#. init_detail_data
+msgid "acceleration"
+msgstr "acelerashyn"
+
+#. init_detail_data
+msgid "gravity"
+msgstr "gravity"
+
+#. init_detail_data
+msgid "projectile speed"
+msgstr "projectil speed"
+
+#. init_detail_data
+msgid "rotate speed"
+msgstr "rotate speed"
+
+#. init_detail_data
+msgid "conveyor speed"
+msgstr "conveyor speed"
+
+#. init_detail_data
+msgid "motion"
+msgstr "moshon"
+
+#. init_detail_data
+msgid "set position"
+msgstr "set position"
+
+#. init_detail_data
+msgid "track"
+msgstr "track"
+
+#. init_detail_data
+msgid "ease"
+msgstr "ease"
+
+#. init_detail_data
+msgid "linear"
+msgstr "linear"
+
+#. init_detail_data
+msgid "ease in"
+msgstr "ease in"
+
+#. init_detail_data
+msgid "ease out"
+msgstr "ease out"
+
+#. init_detail_data
+msgid "ease in out"
+msgstr "ease in-out"
+
+#. init_detail_data
+msgid "track player"
+msgstr "track player"
+
+#. init_detail_data
+msgid "respawns"
+msgstr "respawnz"
+
+#. init_detail_data
+msgid "bounce"
+msgstr "bounc"
+
+#. init_detail_data
+msgid "color"
+msgstr "color"
+
+#. init_detail_data
+msgid "killer"
+msgstr "killa"
+
+#. init_detail_data
+msgid "wallhacks"
+msgstr "wallhackz"
+
+#. init_detail_data
+msgid "indicator"
+msgstr "indicator"
+
+#. init_detail_data
+msgid "Gun"
+msgstr "gun"
+
+#. init_detail_data
+msgid "Sword"
+msgstr "sword"
+
+#. init_detail_data
+msgid "effect type"
+msgstr "effect type"
+
+#. init_detail_data
+msgid "arrow direction"
+msgstr "arro direction"
+
+#. init_detail_data
+msgid "length"
+msgstr "lengf"
+
+#. init_detail_data
+msgid "solid"
+msgstr "solid"
+
+#. init_detail_data
+msgid "destroy on landing"
+msgstr "destroy on landing"
+
+#. init_detail_data
+msgid "type"
+msgstr "type"
+
+#. init_detail_data
+msgid "bouncy"
+msgstr "bouncy"
+
+#. init_detail_data
+msgid "walking speed"
+msgstr "walkin speed"
+
+#. init_detail_data
+msgid "starting facing"
+msgstr "start facing"
+
+#. init_detail_data
+msgid "clockwise"
+msgstr "clockwais"
+
+#. init_detail_data
+msgid "ccw"
+msgstr "countaclockwais"
+
+#. init_detail_data
+msgid "walk off ledges"
+msgstr "walk off ledgez"
+
+#. init_detail_data
+msgid "text"
+msgstr "text"
+
+#. init_detail_data
+msgid "Danger"
+msgstr "danger"
+
+#. init_detail_data
+msgid "Run!"
+msgstr "run!!"
+
+#. init_detail_data
+msgid "Dang!"
+msgstr "dang"
+
+#. init_detail_data
+msgid "Nice!"
+msgstr "nice :3"
+
+#. init_detail_data
+msgid "Huh?"
+msgstr "huh"
+
+#. init_detail_data
+msgid "Bruh"
+msgstr "bruh :p"
+
+#. init_detail_data
+msgid "forest"
+msgstr "forest"
+
+#. init_detail_data
+msgid "palm"
+msgstr "palm"
+
+#. init_detail_data
+msgid "pine"
+msgstr "pine"
+
+#. init_detail_data
+msgid "spooky"
+msgstr "spooky"
+
+#. init_detail_data
+msgid "sakura"
+msgstr "sakura"
+
+#. init_detail_data
+msgid "size"
+msgstr "size"
+
+#. init_detail_data
+msgid "small"
+msgstr "small"
+
+#. init_detail_data
+msgid "medium"
+msgstr "med"
+
+#. init_detail_data
+msgid "large"
+msgstr "big"
+
+#. init_detail_data
+msgid "has snow"
+msgstr "haz snow"
+
+#. init_detail_data
+msgid "wood"
+msgstr "wood"
+
+#. init_detail_data
+msgid "boreal"
+msgstr "boreal"
+
+#. init_detail_data
+msgid "metal"
+msgstr "metal"
+
+#. init_detail_data
+msgid "fall speed"
+msgstr "fall speed"
+
+#. init_detail_data
+msgid "slow"
+msgstr "slow"
+
+#. init_detail_data
+msgid "hue"
+msgstr "hue"
+
+#. init_detail_data
+msgid "saturation"
+msgstr "saturasion"
+
+#. init_detail_data
+msgid "luminance"
+msgstr "luminanse"
+
+#. init_detail_data
+msgid "invert"
+msgstr "invert"
+
+#. init_detail_data
+msgid "background"
+msgstr "backgraund"
+
+#. init_detail_data
+msgid "foreground"
+msgstr "forground"
+
+#. init_detail_data
+msgid "burst type"
+msgstr "burst type"
+
+#. init_detail_data
+msgid "explode"
+msgstr "explode"
+
+#. init_detail_data
+msgid "pulse"
+msgstr "pulse"
+
+#. init_detail_data
+msgid "puff"
+msgstr "poof!"
+
+#. init_detail_data
+msgid "timer number"
+msgstr "timer numba"
+
+#. init_detail_data
+msgid "interactable"
+msgstr "interactabl"
+
+#. init_detail_data
+msgid "shootable"
+msgstr "shootable"
+
+#. init_detail_data
+msgid "health"
+msgstr "helth"
+
+#. init_detail_data
+msgid "iframes"
+msgstr "iframez"
+
+#. init_detail_data
+msgid "ignore iframes"
+msgstr "ignore iframez"
+
+#. init_detail_data
+msgid "boss health bar"
+msgstr "boss health bar"
+
+#. init_detail_data
+msgid "intensity"
+msgstr "intensity"
+
+#. init_detail_data
+msgid "alpha"
+msgstr "alpha"
+
+#. init_detail_data
+msgid "grabbed or lost"
+msgstr "grabbed or lost"
+
+#. init_detail_data
+msgid "lost"
+msgstr "lost"
+
+#. init_detail_data
+msgid "grabbed"
+msgstr "grabbd"
+
+#. init_detail_data
+msgid "destroy type"
+msgstr "destroy type"
+
+#. init_detail_data
+msgid "destroyed"
+msgstr "destroyd"
+
+#. init_detail_data
+msgid "outside room"
+msgstr "outside room"
+
+#. eventsStep
+msgid "Paste Event"
+msgstr "paste event"
+
+#. eventsStep
+msgid "Add Event"
+msgstr "add event"
+
+#. eventsStep
+msgid "Paste Action"
+msgstr "paste action"
+
+#. eventsStep
+msgid "Add Action"
+msgstr "add action"
+
+#. eventsStep
+msgid "Copy Event"
+msgstr "copy event"
+
+#. eventsStep
+msgid "Copy Action"
+msgstr "copy action"
+
+#. createEventPicker
+msgid "timing"
+msgstr "timing"
+
+#. createEventPicker
+msgid "weapons"
+msgstr "weaponz"
+
+#. createEventPicker
+msgid "player actions"
+msgstr "player actionz"
+
+#. createEventPicker
+msgid "triggers + activators"
+msgstr "triggerz + activatorz"
+
+#. createEventPicker
+msgid "object-specific"
+msgstr "object-specific"
+
+#. createEventPicker
+msgid "destroy + collisions"
+msgstr "destroy + collisionz"
+
+#. createEventPicker
+msgid "movement"
+msgstr "movement"
+
+#. createEventPicker
+msgid "advanced movement"
+msgstr "more movementz"
+
+#. createEventPicker
+msgid "audio + visual"
+msgstr "audio + visual"
+
+#. createEventPicker
+msgid "timers"
+msgstr "timerz"
+
+#. createEventPicker
+msgid "triggers"
+msgstr "triggerz"
+
+#. createEventPicker
+msgid "random"
+msgstr "random"
+
+#. addObjectFoldersToCabinet
+msgid "layout"
+msgstr "layout"
+
+#. addObjectFoldersToCabinet
+msgid "blocks + platforms"
+msgstr "blockz + platformz"
+
+#. addObjectFoldersToCabinet
+msgid "killers"
+msgstr "killerz"
+
+#. addObjectFoldersToCabinet
+msgid "good design"
+msgstr "good desin"
+
+#. addObjectFoldersToCabinet
+msgid "crushers"
+msgstr "crusherz"
+
+#. addObjectFoldersToCabinet
+msgid "enemies"
+msgstr "enemiez"
+
+#. addObjectFoldersToCabinet
+msgid "common"
+msgstr "common"
+
+#. addObjectFoldersToCabinet
+msgid "collectibles"
+msgstr "colectiblez"
+
+#. addObjectFoldersToCabinet
+msgid "control"
+msgstr "control"
+
+#. addObjectFoldersToCabinet
+msgid "power-ups"
+msgstr "powerupz"
+
+#. addObjectFoldersToCabinet
+msgid "gravity + speed"
+msgstr "gravity + speed"
+
+#. addObjectFoldersToCabinet
+msgid "vines"
+msgstr "vinez"
+
+#. addObjectFoldersToCabinet
+msgid "special"
+msgstr "special"
+
+#. addObjectFoldersToCabinet
+msgid "props"
+msgstr "propz"
+
+#. paramsDraw
+msgid "card ID"
+msgstr "card id"
+
+#. paramsDraw
+msgid "Confirm (Enter)"
+msgstr "confirm (enter)"
+
+#. paramsDraw
+msgid "Edit as text"
+msgstr "edit as text"
+
+#. paramsDraw
+msgid "Paste last selected color"
+msgstr "paste last selected color"
+
+#. paramsDraw
+msgid "stop editing"
+msgstr "stop editing"
+
+#. startEditingParam
+msgid "Back and forth"
+msgstr "back and fourth"
+
+#. startEditingParam
+msgid "spotlight"
+msgstr "spotligt"
+
+#. startEditingParam
+msgid "reverse spotlight"
+msgstr "reverse spotlite"
+
+#. startEditingParam
+msgid "hue cycle"
+msgstr "hue cycle"
+
+#. startEditingParam
+msgid "greyscale"
+msgstr "greyscale"
+
+#. startEditingParam
+msgid "wiggle"
+msgstr "wiggly"
+
+#. startEditingParam
+msgid "firework"
+msgstr "firework"
+
+#. startEditingParam
+msgid "rainstorm"
+msgstr "rainstorm"
+
+#. startEditingParam
+msgid "screen shake"
+msgstr "screen shake"
+
+#. startEditingParam
+msgid "Next unused"
+msgstr "next unused"
+
+#. scrCreatePauseButtons
+msgid "Reset Level"
+msgstr "reset level :/"
+
+#. scrCreatePauseButtons
+msgid "Exit Play"
+msgstr "exit play :p"
+
+#. scrCreatePauseButtons
+msgid "Return to Editor"
+msgstr "return to editor :p"
+
+#. scrCreatePauseButtons
+msgid "Exit Campaign"
+msgstr "exit campaign"
+
+#. scrCreatePauseButtons
+msgid "Resume"
+msgstr "resume :3"
+
+#. browseListLoadXMLMapName
+msgid "Autosave"
+msgstr "autosave"
+
+#. browseListDoAction
+msgid "No clears yet"
+msgstr "no clearz yet :p"
+
+#. browseListDelete, openDeleteMapPopup
+msgid "Are you sure you want to delete"
+msgstr "ya sure ya wanna delete"
+
+#. browseListWatchWorldRecord, browseListWatchPersonalRecord
+msgid "This level cannot be 100% cleared."
+msgstr "this lvl cant be full cleard :p"
+
+#. browseListWatchWorldRecord
+msgid "No World Record"
+msgstr "no world record"
+
+#. browseListWatchWorldRecord
+msgid "No 100% World Record"
+msgstr "no full world record"
+
+#. onNewPlaylistCreated, EXAMPLE_sapi_xxx_result
+msgid "Success!"
+msgstr "success!! :3"
+
+#. scrCreateDownloadPopup
+msgid "Downloading..."
+msgstr "fetchimg,,, owo"
+
+#. createRulesPopup
+msgid "Condensed Rules"
+msgstr "condensed rulez"
+
+#. createRulesPopup
+msgid "General:"
+msgstr "general:"
+
+#. createRulesPopup
+msgid "No inappropriate language"
+msgstr "no naughty languag"
+
+#. createRulesPopup
+msgid "No hate speech of any kind"
+msgstr "no hate speech of any kind :p"
+
+#. createRulesPopup
+msgid "Be courteous and respectful"
+msgstr "be respectful to everyone :3"
+
+#. createRulesPopup
+msgid "No autofire/macros/scripting"
+msgstr "no autofire/macros/scripting -w-"
+
+#. createRulesPopup
+msgid "Only one shoot button"
+msgstr "only one shoot button x3"
+
+#. createRulesPopup
+msgid "Levels:"
+msgstr "levelz:"
+
+#. createRulesPopup
+msgid "No inappropriate content"
+msgstr "no naughty content"
+
+#. createRulesPopup
+msgid "No lag machines"
+msgstr "no lag machinez"
+
+#. createRulesPopup
+msgid "No \"waiting\" levels"
+msgstr "no \"waiting\" levelz"
+
+#. createRulesPopup
+msgid "No rapid flashing"
+msgstr ""
+
+#. createRulesPopup
+msgid "No inappropriate level, user, or playlist names, including swears from any language"
+msgstr "no naughty level, user or pleylist namez, including bad wordz from any languag"
+
+#. createRulesPopup
+msgid "No autofire/macros/scripting when playing levels"
+msgstr "no autofire/macros/scriptin when playin levelz"
+
+#. createRulesPopup
+msgid "Only one button can be used to shoot at a time (no exploits to shoot faster allowed)"
+msgstr "only one button for shooting (no exploitz to shoot faster :P)"
+
+#. createRulesPopup
+msgid "No inappropriate or suggestive level content, such as swear words, bigotry, sexual content"
+msgstr "no naughty or suggestiv level content, such as bad words, bigotry, and sexual content >w>"
+
+#. createRulesPopup
+msgid "No unreasonably long forced waiting in levels"
+msgstr "no super long forced waiting in levelz"
+
+#. createRulesPopup
+msgid "No rapid flashing in levels, which have epilepsy concerns or are visually abrasive"
+msgstr "no rapid flashing in levelz, those may cause epilepsy for some people :<"
+
+#. createRulesPopup
+msgid "No intentionally lagging the game with your level"
+msgstr "no intentional laggin le game with yor level"
+
+#. createRulesPopup
+msgid "Please do not exploit the game in a way that is obviously unintended, such as bypassing a security measure. If you find an exploit, please tell a developer privately, such as in a Discord DM. We'd really appreciate it!"
+msgstr "plz do not exploit the game, such as bypassin security stuff. if ya foind smth, plz tell it to devs privately!! we will greatly appreciate it :3"
+
+#. createRulesPopup, createPublicMultiplayerPrompt
+msgid "Level Lobby Rules"
+msgstr "level lobby rulez"
+
+#. createRulesPopup, createPublicMultiplayerPrompt
+msgid "Be courteous and respectful to other players. Hate speech and bigotry are not allowed"
+msgstr "be respectful to other kittenz, hate speech and bigotry is not tolerated"
+
+#. createRulesPopup, createPublicMultiplayerPrompt
+msgid "No adult (18+) or sexual content"
+msgstr "no adult (18+) or sexual content :p"
+
+#. createRulesPopup, createPublicMultiplayerPrompt
+msgid "No circumventing the swear word filter"
+msgstr "no bypassing le swear word filta"
+
+#. createPublicMultiplayerPrompt
+msgid "Would you like to enable seeing and chatting with other online players#in the same level?#Note: This feature uses peer-to-peer networking."
+msgstr "would ya like to enable seein and chattin with other online catz#in le same level?#note: this feature uses peer to peer network stuff"
+
+#. resetCampaign1
+msgid "Are you sure you want to reset your campaign progress?"
+msgstr "ya sure ya wanna reset your campaign progress?"
+
+#. resetCampaign2
+msgid "Are you really sure?"
+msgstr "are ya REALLY sure? like, actually sure?"
+
+#. scrResetMap
+msgid "Save loaded!#Replay won't be recorded unless the level is restarted"
+msgstr "save loaded!!#replay no record unless level is restarted :p"
+
+#. scrCreateRateButtons
+msgid "Tag Level"
+msgstr "tag level"
+
+#. EXAMPLE_sapi_xxx_result
+msgid "Failure!"
+msgstr "failure :<"
+
+#. sfm_http_callback, scrCallback_RequestPasswordResetFinish
+msgid "A server error occurred, please report this bug!"
+msgstr "a server error occured, plz report this bug!!"
+
+#. sfm_get_ban_message
+msgid "You have been permanently banned"
+msgstr "You have been permamently banned."
+
+#. sfm_get_ban_message
+msgid "You have been temporarily banned"
+msgstr "you haz been temporarily banned :<"
+
+#. sfm_get_ban_message, initNotif
+msgid "Reason"
+msgstr "reason"
+
+#. sfm_get_ban_message
+msgid "Ban expires in %1 hours"
+msgstr "ban expirez in %1 hourz"
+
+#. sapi_login_result, sapi_steam_login_result, sapi_register_result
+msgid "Couldn't connect to server"
+msgstr "cant connect to server :<"
+
+#. sapi_login_result, sapi_steam_login_result
+msgid "Login Successful!"
+msgstr "login success!! :3"
+
+#. sapi_login_result
+msgid "Account Link Successful!"
+msgstr "account link success!! :3"
+
+#. sapi_login_result, sapi_steam_login_result
+msgid "Incorrect username or password"
+msgstr "incorrect username or password :p"
+
+#. sapi_login_result, sapi_steam_login_result
+msgid "Couldn't log in"
+msgstr "cant log in :< sorry"
+
+#. sapi_register_result
+msgid "Registered!"
+msgstr "registered!! :3"
+
+#. sapi_register_result
+msgid "Registration failed"
+msgstr "register failed :<"
+
+#. sapi_update_user_result
+msgid "Updated!"
+msgstr "updated!! :3"
+
+#. sapi_update_user_result
+msgid "Update failed"
+msgstr "update failed :<"
+
+#. sapi_unlock_achievement_result
+msgid "Achievement unlock failed"
+msgstr "achievemtn unlock failed :<"
+
+#. sapi_submit_map_result
+msgid "Upload Successful!"
+msgstr "upload success!! :3"
+
+#. sapi_submit_map_result, sapi_stop_map_play_result
+msgid "Upload Failed"
+msgstr "upload failed :<"
+
+#. sapi_delete_map_result, sapi_delete_list_result
+msgid "Deleted"
+msgstr "deleted :p"
+
+#. sapi_delete_map_result
+msgid "Level deletion failed"
+msgstr "level deletion failed :<"
+
+#. sapi_get_map_by_id_result
+msgid "Get level by ID failed"
+msgstr "get lvl by id failed :<"
+
+#. sapi_get_maps_result
+msgid "No levels found with ID"
+msgstr "no lvlz found with that id :p"
+
+#. sapi_get_map_count_result
+msgid "Warning: HTTPS server connection failed#Switching to HTTP#This is potentially insecure"
+msgstr "warning!! https connection failed#switching to http...#this may be potentially insecure"
+
+#. sapi_start_map_play_result
+msgid "Level start play failed"
+msgstr "level start play failed :p"
+
+#. sapi_stop_map_play_result
+msgid "NEW RECORD!"
+msgstr "new record!!"
+
+#. sapi_stop_map_play_result
+msgid "NEW 100% RECORD!"
+msgstr "new full record!!"
+
+#. sapi_stop_map_play_result
+msgid "FIRST CLEAR!"
+msgstr "first clear!!"
+
+#. sapi_stop_map_play_result
+msgid "Stop Level Failed"
+msgstr "stop level failed :p"
+
+#. sapi_rate_map_result, sapi_rate_difficulty_result, sapi_tag_map_result, sapi_create_list_result, sapi_update_list_result, sapi_append_to_list_result, sapi_delete_list_result, sapi_feature_list_result, sapi_get_featured_list_result, sapi_follow_result, sapi_unfollow_result, sapi_follow_mark_seen_result, sapi_follow_check_result, sapi_notif_result, sapi_notif_unread_count_result, sapi_notif_read_result, sapi_send_admin_message_result, sfm_api_get_leaderboard_result, getChallengesCallback, getUserForChallengesMenuCallback
+msgid "Request failed"
+msgstr "request failed :p"
+
+#. sapi_append_to_list_result
+msgid "Added!"
+msgstr "added!! :3"
+
+#. sapi_submit_report_result
+msgid "Report sent. Thank you."
+msgstr "report sent, thank ya :3"
+
+#. sapi_submit_report_result
+msgid "Failed"
+msgstr "failed :<"
+
+#. sapi_start_challenge_result
+msgid "Challenge start failed"
+msgstr "challenge start failed :<"
+
+#. scrButtonCallback_Quit
+msgid "Quit the game?"
+msgstr "ya wanna quit le game? QwQ"
+
+#. scrButtonCallback_UploadLevelTagCheck
+msgid "Are you sure you want to upload your level without picking any tags?"
+msgstr "ya sure ya wanna upload your lvl without any tagz?"
+
+#. scrButtonCallback_AddDescription
+msgid "Level Description"
+msgstr "lvl descriptshon"
+
+#. scrCallback_RequestPasswordResetFinish
+msgid "New Password"
+msgstr "new password"
+
+#. scrCallback_RequestPasswordResetFinish
+msgid "Re-enter New Password"
+msgstr "new password, again"
+
+#. scrCallback_RequestPasswordResetFinish
+msgid "Reset Code"
+msgstr "reset code"
+
+#. scrCallback_ResetPasswordFinish
+msgid "Password successfully changed."
+msgstr "password successfully changed :3"
+
+#. scrCallback_ResetPasswordFinish
+msgid "That code doesn't match our records."
+msgstr "that code no match our recordz :<"
+
+#. scrButtonCallback_RegisterPopup, scrButtonCallback_ForgotPWRequestPopup, scrButtonCallback_ForgotPWSubmitPopup
+msgid "Please fill out each field."
+msgstr "plz fill out each field"
+
+#. scrButtonCallback_RegisterPopup
+msgid "Passwords do not match."
+msgstr "password dont match :p"
+
+#. scrButtonCallback_StoryModeMap
+msgid "The Beach"
+msgstr "le beach"
+
+#. initNotif
+msgid "%2 took your 100% record on %1 with time %3"
+msgstr "%2 took your full record on %1 with time %3"
+
+#. initNotif
+msgid "%2 took your record on %1 with time %3"
+msgstr "%2 took yoir record on %1 with time %3"
+
+#. initNotif
+msgid "Your time on %1 was removed"
+msgstr "your time on %1 was removed :p"
+
+#. initNotif
+msgid "Your level %1 was removed"
+msgstr "your level %1 was removed :p"
+
+#. initNotif
+msgid "You were temporarily banned"
+msgstr "you were temporarily banned :p"
+
+#. initNotif
+msgid "Please follow the rules. Repeat offenses will result in increased ban lengths."
+msgstr "plz follow rulez, repeat offenses give worse banz"
+
+#. initNotif
+msgid "Message from an administrator"
+msgstr "message from admin"
+
+#. scrButtonCallback_DeleteMap
+msgid "An error occurred when deleting level file!"
+msgstr "a error occured when deleting lvl file"
+
+#. scrButtonCallback_SearchByID2
+msgid "Invalid level ID"
+msgstr "invalid lvl id"
+
+#. scrButtonCallback_EndChallenge
+msgid "Are you sure you want to end the challenge?"
+msgstr "ya sure ya wanna end le challenge?"
+
+#. scrButtonCallback_SubmitReport
+msgid "Please type some information to help the moderators."
+msgstr "plz type some info to help the cat godz"
+
+#. scrCallback_QueueToggled
+msgid "Close Queue"
+msgstr "close queue"
+
+#. scrCallback_QueueToggled
+msgid "Open Queue"
+msgstr "open queue"
+
+#. getChallengePersonalRecordString
+msgid "Not finished"
+msgstr "not finishd"
+
+#. getChallengePersonalRecordString
+msgid "clear"
+msgstr "clear"
+
+#. getChallengePersonalRecordString
+msgid "clears"
+msgstr "clearz"
+
+#. getChallengePersonalRecordString
+msgid "life left"
+msgstr "life left"
+
+#. getChallengePersonalRecordString
+msgid "lives left"
+msgstr "livez left"
+
+#. scrGetKeybind
+msgid "Space"
+msgstr "space"
+
+#. scrGetKeybind
+msgid "Shift"
+msgstr "shift"
+
+#. scrGetKeybind
+msgid "Alt"
+msgstr "alt"
+
+#. scrGetKeybind
+msgid "Enter"
+msgstr "enter"
+
+#. scrGetKeybind
+msgid "Up"
+msgstr "up"
+
+#. scrGetKeybind
+msgid "Down"
+msgstr "down"
+
+#. scrGetKeybind
+msgid "Left"
+msgstr "left"
+
+#. scrGetKeybind
+msgid "Right"
+msgstr "rite"
+
+#. scrGetKeybind
+msgid "Backspace"
+msgstr "backspaic"
+
+#. scrGetKeybind
+msgid "Tab"
+msgstr "tab"
+
+#. scrGetKeybind
+msgid "Insert"
+msgstr "insert"
+
+#. scrGetKeybind
+msgid "Page Up"
+msgstr "page up"
+
+#. scrGetKeybind
+msgid "Page Down"
+msgstr "page down"
+
+#. scrGetKeybind
+msgid "Home"
+msgstr "homo"
+
+#. scrGetKeybind
+msgid "End"
+msgstr "end"
+
+#. scrGetKeybind
+msgid "Escape"
+msgstr "escape"
+
+#. scrGetKeybind
+msgid "Print Screen"
+msgstr "print screen"
+
+#. scrGetKeybind
+msgid "Left Shift"
+msgstr "left shift"
+
+#. scrGetKeybind
+msgid "Right Shift"
+msgstr "rite shift"
+
+#. scrGetKeybind
+msgid "Left Ctrl"
+msgstr "left ctrl"
+
+#. scrGetKeybind
+msgid "Right Ctrl"
+msgstr "right ctrl"
+
+#. scrGetKeybind
+msgid "Left Alt"
+msgstr "left alt"
+
+#. scrGetKeybind
+msgid "Right Alt"
+msgstr "rite alt"
+
+#. scrDiscordInitStrings
+msgid "Chilling in the menus"
+msgstr "chillin in le menuz :3"
+
+#. scrDiscordInitStrings
+msgid "Browsing community levels"
+msgstr "browsin community levelz :o"
+
+#. scrDiscordInitStrings
+msgid "Browsing community playlists"
+msgstr "browsin community pleylistz :p"
+
+#. scrDiscordInitStrings
+msgid "Making an epic level"
+msgstr "makin a epic level ^w^"
+
+#. scrDiscordInitStrings
+msgid "Playing for submission"
+msgstr "playin for submission :3"
+
+#. scrDiscordInitStrings
+msgid "Playing a local level"
+msgstr "playin a local level uwu"
+
+#. scrDiscordInitStrings
+msgid "Playing a community level"
+msgstr "playin a community level uwu"
+
+#. scrDiscordInitStrings
+msgid "Doing Mr. Scribble's Quest"
+msgstr "doing mr scriblo quest"
+
+#. scrDiscordInitStrings
+msgid "Doing Explorer"
+msgstr "exploring the unexplored"
+
+#. scrDiscordInitStrings
+msgid "Doing Roulette"
+msgstr "rolling le dice"
+
+#. scrDiscordInitStrings
+msgid "Doing a custom challenge"
+msgstr "going for a personal adventure"
+
+#. scrDiscordInitStrings
+msgid "Doing Endurance"
+msgstr "doin endurance"
+
+#. scrDiscordInitStrings
+msgid "Doing Hardcore Roulette"
+msgstr "rolling unfair dice"
+
+#. createChatLogClickMenu
+msgid "Profile"
+msgstr "profile"
+
+#. createChatLogClickMenu, chatLogMutePlayer
+msgid "Mute"
+msgstr "mute"
+
+#. createChatLogClickMenu, chatLogMutePlayer
+msgid "Unmute"
+msgstr "unmute"
+
+#. createChatLogClickMenu
+msgid "Report"
+msgstr "report"
+
+#. generateTutorialSignText
+msgid "Welcome to I Wanna Maker! Press %1/%2 to walk"
+msgstr "welcome to i wanna maker!! press %1/%2 to walk"
+
+#. generateTutorialSignText
+msgid "Press %1 to jump"
+msgstr "press %1 to jump"
+
+#. generateTutorialSignText
+msgid "You have a double jump. Press %1 again in mid-air"
+msgstr "ya have double jump :3 press %1 midair"
+
+#. generateTutorialSignText
+msgid "In water, you can jump unlimited times"
+msgstr "in water, ya can jump many times!!"
+
+#. generateTutorialSignText
+msgid "Gems are an optional pickup to 100% complete the level. Good luck!"
+msgstr "shinies are optional pickupz to full complete le level, good luck! &Hat;w&hat;"
+
+#. getSubmapParamStr
+msgid "INVALID ROOM"
+msgstr "invalid room :p"
